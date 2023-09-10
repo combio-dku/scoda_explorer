@@ -1,0 +1,7 @@
+
+[dev]
+numpy
+pandas
+scipy
+scikit-learn
+scikit-network
