@@ -24,8 +24,8 @@
 
 
 ## 2. 데이터 준비, SCODA 실행, 주피터 사용하기 (파이썬 간략 소개) (1시간 10분)
-1. 입력 데이터 포맷팅 소개 (5분)
-2. 사용할 데이터 다운로드: [여기 클릭](https://drive.google.com/file/d/1DF_dGMSOi54eVc5_2DVxsWv71feFvgcb/view?usp=sharing) (5분)
+1. 사용할 데이터 다운로드: [여기 클릭](https://drive.google.com/file/d/1DF_dGMSOi54eVc5_2DVxsWv71feFvgcb/view?usp=sharing) (5분)
+2. 입력 데이터 포맷팅 소개 (5분)
 3. 데이터 업로드 및 SCODA 실행 [SCODA pipeline homepage](https://mlbi-lab.net) (10분)
 4. 구글 Colab에서 주피터 노트북 열기: [여기클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/scoda_viz_practice_workshop.ipynb) (5분)
 5. 구글 Colab에 연결 하기 (5분)
