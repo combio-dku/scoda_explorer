@@ -14,7 +14,7 @@
 3. SCODA 결과 데이터 마이닝 (1시간 40분)
 
 ## SCODA 간략 소개
-워크샵 당일날 10분 정도 간략하게 SCODA에 대한 소개를 드리겠지만 사전에 시간이 되신 다면 [BRIC 기업기술 웨비나 SCODA 소개](https://youtu.be/ajRnK3QeCWA?si=XGiIjtE07IMfZjdz)를 미리 보시고 오시면 더 좋습니다.
+워크샵 당일날 10분 정도 간략하게 SCODA에 대한 소개를 드리겠지만 사전에 시간이 되신 다면 [BRIC 기업기술 웨비나: SCODA 소개](https://youtu.be/ajRnK3QeCWA?si=XGiIjtE07IMfZjdz)를 미리 보시고 오시면 더 좋습니다.
 
 ## 2. 데이터 준비, SCODA 실행, 주피터 사용하기 (파이썬 간략 소개) (1시간 10분)
 1. 입력 데이터 포맷팅 소개 (5분)
