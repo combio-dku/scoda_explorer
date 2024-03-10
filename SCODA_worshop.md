@@ -38,13 +38,13 @@
 1. 사용할 데이터를 다운 받는다. [여기 클릭](https://drive.google.com/file/d/1DF_dGMSOi54eVc5_2DVxsWv71feFvgcb/view?usp=sharing)
 2. SCODA 서버에 접속한다. [SCODA 서버 homepage](https://mlbi-lab.net)
 3. Mandatory Input 부분에서
-   a. 라디오버튼 중 `Compressed 10x_mtx file sets + (optional) meta_data.csv`를 선택한다.
-   b. `파일선택` 버튼을 누르고 다운 받은 파일을 선택한다.
-   c. `Species`는 Human으로 `Tumor cell Identification` 은 그대로 놔둔다.
-   d. `Submit` 버튼을 눌러 SCODA가 업로드한 데이터를 처리하도록 한다.
-   e. 그러면 Progress 창이 뜨고 SCODA 실행 내역이 나타난다. (처리 완료까지 5~10분 소요)
-   f. SCODA의 처리가 완료되면 아래 쪽에 `Download Result` 버튼이 나오면 이를 클릭하여 SCODA 결과 파일을 다운 받는다. 
-   g. 다운 받은 SCODA 결과 파일을 저장해 두었다가 워크샵날 데이터 마이닝 때 사용한다. 👍
+   1. 라디오버튼 중 `Compressed 10x_mtx file sets + (optional) meta_data.csv`를 선택한다.
+   2. `파일선택` 버튼을 누르고 다운 받은 파일을 선택한다.
+   3. `Species`는 Human으로 `Tumor cell Identification` 은 그대로 놔둔다.
+   4. `Submit` 버튼을 눌러 SCODA가 업로드한 데이터를 처리하도록 한다.
+   5. 그러면 Progress 창이 뜨고 SCODA 실행 내역이 나타난다. (처리 완료까지 5~10분 소요)
+   6. SCODA의 처리가 완료되면 아래 쪽에 `Download Result` 버튼이 나오면 이를 클릭하여 SCODA 결과 파일을 다운 받는다. 
+   7. 다운 받은 SCODA 결과 파일을 저장해 두었다가 워크샵날 데이터 마이닝 때 사용한다. 👍
 
 ### 참고 사항
 Cell-cell interaction, DEG 및 GSA/GSEA 결과 데이터의 구성
