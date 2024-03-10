@@ -7,7 +7,7 @@
 - __개별 준비물:__ 웹브라우저가 설치된 PC or Laptop or Tablet
 - __목적:__ SCODA 의 활용법 실습을 통해 단일세포 RNA-seq 데이터 분석 능력을 갖춘다.
 - __참가자 사전 지식:__
-  - 단일세포 RNA-seq 기술이 어디에 어떻게 쓰이는지 대략적으로는 아시는 분.
+  - 생명과학/의학분야에 종사하시면서 단일세포 RNA-seq 기술이 어디에 어떻게 쓰이는지 대략적으로는 아시는 분.
   - Python이나 R 사용 경험이 있으면 더 좋습니다.
 - [BRIC 웨비나 발표자료](https://github.com/combio-dku/scoda_explorer/blob/main/BRIC_%EA%B8%B0%EC%97%85%EA%B8%B0%EC%88%A0%EC%9B%A8%EB%B9%84%EB%82%98_%EC%97%A0%EC%97%98%EB%B9%84%EC%95%84%EC%9D%B4%EB%9E%A9_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_v02e.pdf)
 
