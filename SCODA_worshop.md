@@ -13,7 +13,10 @@
 2. 데이터 준비 및 SCODA 실행 (1시간 10분)
 3. SCODA 결과 데이터 마이닝 (1시간 40분)
 
-## 데이터 준비, SCODA 실행, 주피터 사용하기 (파이썬 간략 소개) (1시간 10분)
+## SCODA 간략 소개
+워크샵 당일날 10분 정도 간략하게 SCODA에 대한 소개를 드리겠지만 사전에 시간이 되신 다면 [BRIC 기업기술 웨비나 SCODA 소개](https://youtu.be/ajRnK3QeCWA?si=XGiIjtE07IMfZjdz)를 미리 보시고 오시면 더 좋습니다.
+
+## 2. 데이터 준비, SCODA 실행, 주피터 사용하기 (파이썬 간략 소개) (1시간 10분)
 1. 입력 데이터 포맷팅 소개 (5분)
 2. 사용할 데이터 다운로드: [여기 클릭](https://drive.google.com/file/d/1DF_dGMSOi54eVc5_2DVxsWv71feFvgcb/view?usp=sharing) (5분)
 3. 데이터 업로드 및 SCODA 실행 [SCODA pipeline homepage](https://mlbi-lab.net) (10분)
@@ -23,7 +26,7 @@
 7. SCODA 결과 다운로드 (저장 경로 확인) (5분)
 8. Colab서버에 결과 데이터 업로드 (5분)
 
-## SCODA 결과 들춰보기 (1시간 45분)
+## 3. SCODA 결과 들춰보기 (1시간 45분)
 1. 주피터 노트북에서 SCODA 결과 파일 불러오기 (10분)
 2. anndata format 간략 소개 (5분)
 3. SCODA 결과 항목들 확인 (15분)
