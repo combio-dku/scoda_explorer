@@ -1,8 +1,8 @@
 ## scoda_workshop
 ### 진행 순서
-1 SCODA 간략 소개
-2 데이터 준비 및 SCODA 실행
-3 SCODA 결과 데이터 마이닝
+1. SCODA 간략 소개
+2. 데이터 준비 및 SCODA 실행
+3. SCODA 결과 데이터 마이닝
 
 ### 준비
 - 입력 데이터 포맷팅 소개
