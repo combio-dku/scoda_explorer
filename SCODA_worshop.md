@@ -1,4 +1,4 @@
-## scoda_workshop
+# \color{blue} scoda_workshop
 - __주최:__ (주) 엠엘비아이랩
 - __연사:__ 윤석현 대표
 - __사용언어:__ python3
@@ -32,7 +32,7 @@
 6. DEG 결과 확인 및 마커 탐색 하기 (15분)
 7. GSA/GSEA 결과 확인  (15분)
 
-### 미리 준비해두면 좋습니다.
+### 미리 준비해두면 좋습니다. 🙏
 워크샵 당일날 30명의 인원이 동시에 SCODA 서버에 접속하여 SCODA를 실행하면 서버에 무리가 갈 수 있어서 만약 시간이 되신 다면 아래 절차에 따라 미리 SCODA 결과 파일을 얻어서 워크샵에서 사용하시면 좀 더 시간 save가 될듯 합니다. (SCODA 서버는 24시간 켜져 있습니다.)
 
 1. 사용할 데이터를 다운 받는다. [여기 클릭](https://drive.google.com/file/d/1DF_dGMSOi54eVc5_2DVxsWv71feFvgcb/view?usp=sharing)
@@ -44,7 +44,7 @@
    d. `Submit` 버튼을 눌러 SCODA가 업로드한 데이터를 처리하도록 한다.
    e. 그러면 Progress 창이 뜨고 SCODA 실행 내역이 나타난다. (처리 완료까지 5~10분 소요)
    f. SCODA의 처리가 완료되면 아래 쪽에 `Download Result` 버튼이 나오면 이를 클릭하여 SCODA 결과 파일을 다운 받는다. 
-   g. 다운 받은 SCODA 결과 파일을 저장해 두었다가 워크샵날 데이터 마이닝 때 사용한다. 
+   g. 다운 받은 SCODA 결과 파일을 저장해 두었다가 워크샵날 데이터 마이닝 때 사용한다. 👍
 
 ### 참고 사항
 Cell-cell interaction, DEG 및 GSA/GSEA 결과 데이터의 구성
