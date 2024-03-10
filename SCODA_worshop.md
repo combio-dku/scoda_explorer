@@ -56,7 +56,7 @@
    3. `Species`는 Human으로 `Tumor cell Identification` 은 그대로 놔둔다.
    4. `Submit` 버튼을 눌러 SCODA가 업로드한 데이터를 처리하도록 한다.
    5. 그러면 Progress 창이 뜨고 SCODA 실행 내역이 나타난다. (처리 완료까지 5~10분 소요)
-   6. SCODA의 처리가 완료되면 아래 쪽에 `Download Result` 버튼이 나오면 이를 클릭하여 SCODA 결과 파일을 다운 받는다. 
+   6. SCODA의 처리가 완료되어 아래 쪽에 `Download Result` 버튼이 나오면 이를 클릭하여 SCODA 결과 파일을 다운 받는다. 
    7. 다운 받은 SCODA 결과 파일을 저장해 두었다가 워크샵날 데이터 마이닝 때 사용한다. 👍
 
 
