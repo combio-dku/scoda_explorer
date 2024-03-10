@@ -1,4 +1,4 @@
-# <span color="red">red</span> ![#1589F0](SCODA Workshop)
+# SCODA Workshop
 - __주최:__ (주) 엠엘비아이랩
 - __연사:__ 윤석현 대표
 - __사용언어:__ python3
@@ -8,12 +8,12 @@
   - Python이나 R 사용 경험이 있으면 더 좋습니다.
 - __목적:__ 단일세포 RNA-seq 전용 데이터 분석 파이프라인 SCODA 의 활용법 실습을 통해 단일세포 RNA-seq 데이터 분석 능력을 갖춘다.
 
-### ${\color{blue} {진행 \space 순서}}$
+### 진행 순서
 1. SCODA 간략 소개 (10분)
 2. 데이터 준비 및 SCODA 실행 (1시간 10분)
 3. SCODA 결과 데이터 마이닝 (1시간 40분)
 
-### ${\color{blue} {데이터 준비, SCODA 실행, 주피터 사용하기 (파이썬 간략 소개), SCODA 결과 다운 받기}}$ (1시간 10분)
+### 데이터 준비, SCODA 실행, 주피터 사용하기 (파이썬 간략 소개), SCODA 결과 다운 받기 (1시간 10분)
 1. 입력 데이터 포맷팅 소개 (5분)
 2. 사용할 데이터 다운로드: [여기 클릭](https://drive.google.com/file/d/1DF_dGMSOi54eVc5_2DVxsWv71feFvgcb/view?usp=sharing) (5분)
 3. 데이터 업로드 및 SCODA 실행 [SCODA pipeline homepage](https://mlbi-lab.net) (10분)
@@ -23,7 +23,7 @@
 7. SCODA 결과 다운로드 (저장 경로 확인) (5분)
 8. Colab서버에 결과 데이터 업로드 (5분)
 
-### ${\color{blue} {SCODA 결과 들춰보기}}$ (1시간 40분)
+### SCODA 결과 들춰보기 (1시간 40분)
 1. 주피터 노트북에서 SCODA 결과 파일 불러오기 (10분)
 2. SCODA 결과 항목들 확인 (15분)
 3. Celltype annotation 결과 확인 (15분)
@@ -32,7 +32,7 @@
 6. DEG 결과 확인 및 마커 탐색 하기 (15분)
 7. GSA/GSEA 결과 확인  (15분)
 
-### ${\color{blue} {미리 준비해두면 좋습니다.}}$ 🙏
+### 미리 준비해두면 좋습니다. 🙏
 워크샵 당일날 30명의 인원이 동시에 SCODA 서버에 접속하여 SCODA를 실행하면 서버에 무리가 갈 수 있어서 만약 시간이 되신 다면 아래 절차에 따라 미리 SCODA 결과 파일을 얻어서 워크샵에서 사용하시면 좀 더 시간 save가 될듯 합니다. (SCODA 서버는 24시간 켜져 있습니다.)
 
 1. 사용할 데이터를 다운 받는다. [여기 클릭](https://drive.google.com/file/d/1DF_dGMSOi54eVc5_2DVxsWv71feFvgcb/view?usp=sharing)
@@ -46,7 +46,7 @@
    f. SCODA의 처리가 완료되면 아래 쪽에 `Download Result` 버튼이 나오면 이를 클릭하여 SCODA 결과 파일을 다운 받는다. 
    g. 다운 받은 SCODA 결과 파일을 저장해 두었다가 워크샵날 데이터 마이닝 때 사용한다. 👍
 
-### ${\color{blue} {참고 사항}}$
+### 참고 사항
 Cell-cell interaction, DEG 및 GSA/GSEA 결과 데이터의 구성
 - cell-cell interaction 결과 (`uns['CCI_sample']`)
 <img width="320" alt="CCI_result_structure" src="https://github.com/combio-dku/scoda_explorer/assets/82195405/65982226-cb15-434e-8116-00692e65ab74">
