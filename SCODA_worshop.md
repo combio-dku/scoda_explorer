@@ -1,4 +1,3 @@
-# ${\color{blue} \rm{SCODA \space Workshop}}$
 # <font color="blue"> SCODA Workshop </font>
 - __주최:__ (주) 엠엘비아이랩
 - __연사:__ 윤석현 대표
