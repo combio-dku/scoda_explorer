@@ -1,4 +1,4 @@
-# ${\color{blue}scoda_workshop}$
+# ${\color{blue}SCODA Workshop}$
 - __주최:__ (주) 엠엘비아이랩
 - __연사:__ 윤석현 대표
 - __사용언어:__ python3
