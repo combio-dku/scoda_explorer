@@ -46,7 +46,7 @@
 
 
 ## 미리 준비해두면 좋습니다. 🙏
-워크샵 당일날 30명의 인원이 동시에 SCODA 서버에 접속하여 SCODA를 실행하면 서버에 무리가 갈 수 있어서 만약 시간이 되신 다면 아래 절차에 따라 미리 SCODA 결과 파일을 얻어서 워크샵에서 사용하시면 좀 더 시간 save가 될듯 합니다. (SCODA 서버는 24시간 켜져 있습니다.)
+워크샵 당일날 30명의 인원이 동시에 SCODA 서버에 접속하여 SCODA를 실행하면 서버에 무리가 갈 수 있고 예기치 않은 문제도 발생할 수 있어서 만약 시간이 되신 다면 아래 절차에 따라 미리 SCODA 결과 파일을 얻어서 워크샵에서 사용하시면 좀 더 시간 save가 될듯 합니다. (SCODA 서버는 24시간 켜져 있습니다.)
 
 1. 사용할 데이터를 다운 받는다. [여기 클릭](https://drive.google.com/file/d/1DF_dGMSOi54eVc5_2DVxsWv71feFvgcb/view?usp=sharing)
 2. SCODA 서버에 접속한다. [SCODA 서버 homepage](https://mlbi-lab.net)
