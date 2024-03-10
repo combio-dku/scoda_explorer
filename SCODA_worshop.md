@@ -31,3 +31,15 @@
 5. Cell-cell interaction 추정 결과 확인 (15분)
 6. DEG 결과 확인 및 마커 탐색 하기 (15분)
 7. GSA/GSEA 결과 확인  (15분)
+
+### 참고 사항
+
+Cell-cell interaction, DEG 및 GSA/GSEA 결과 데이터의 구성
+
+<img width="426" alt="CCI_result_structure" src="https://github.com/combio-dku/scoda_explorer/assets/82195405/65982226-cb15-434e-8116-00692e65ab74">
+
+
+<img width="738" alt="DEG_result_structure" src="https://github.com/combio-dku/scoda_explorer/assets/82195405/8d092dcb-e127-4d13-9f27-4edceeae94a7">
+
+<img width="743" alt="GSA_result_structure" src="https://github.com/combio-dku/scoda_explorer/assets/82195405/1d111fc8-ecaf-4f57-b0b9-94102b891498">
+
