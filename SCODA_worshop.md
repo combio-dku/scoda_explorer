@@ -1,5 +1,5 @@
 ## scoda_workshop
-- 주최: (주) 엠엘비아이랩
+- __주최:__ (주) 엠엘비아이랩
 - 연사: 윤석현 대표
 - 사용언어: python3
 - 개별 준비물: 웹브라우저가 설치된 PC or Laptop or Tablet
