@@ -58,6 +58,7 @@
    5. 그러면 Progress 창이 뜨고 SCODA 실행 내역이 나타난다. (처리 완료까지 5~10분 소요)
    6. SCODA의 처리가 완료되어 아래 쪽에 `Download Result` 버튼이 나오면 이를 클릭하여 SCODA 결과 파일을 다운 받는다. 
    7. 다운 받은 SCODA 결과 파일을 저장해 두었다가 워크샵날 데이터 마이닝 때 사용한다. 👍
+- 혹시 몰라 미리 SCODA로 처리한 결과 링크도 공유 드립니다. [SCODA 결과 파일](https://drive.google.com/file/d/13pDN9F2UkTwi8OhA9oBEEVEnPK_zieCo/view?usp=sharing) (위의 "사용할 데이터"를 SCODA에 업로드하여 얻은 결과 입니다.)
 
 ## 참고 사항
 Cell-cell interaction, DEG 및 GSA/GSEA 결과 데이터의 구성
