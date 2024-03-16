@@ -63,9 +63,12 @@
 ## 참고 사항
 - Cell-cell interaction, DEG 및 GSA/GSEA 결과 데이터의 구성
   - cell-cell interaction 결과 (`uns['CCI_sample']`)
-    <img width="320" alt="CCI_result_structure" src="https://github.com/combio-dku/scoda_explorer/assets/82195405/65982226-cb15-434e-8116-00692e65ab74">
+<img width="320" alt="CCI_result_structure" src="https://github.com/combio-dku/scoda_explorer/assets/82195405/65982226-cb15-434e-8116-00692e65ab74">
+
   - DEG 결과 (`uns['DEG']`)
-    <img width="555" alt="DEG_result_structure" src="https://github.com/combio-dku/scoda_explorer/assets/82195405/8d092dcb-e127-4d13-9f27-4edceeae94a7">
+<img width="555" alt="DEG_result_structure" src="https://github.com/combio-dku/scoda_explorer/assets/82195405/8d092dcb-e127-4d13-9f27-4edceeae94a7">
+
   - GSA/GSEA 결과 (`uns['GSA_up']`, `uns['GSA_down']`, `uns['GSEA']`)
-    <img width="555" alt="GSA_result_structure" src="https://github.com/combio-dku/scoda_explorer/assets/82195405/1d111fc8-ecaf-4f57-b0b9-94102b891498">
+<img width="555" alt="GSA_result_structure" src="https://github.com/combio-dku/scoda_explorer/assets/82195405/1d111fc8-ecaf-4f57-b0b9-94102b891498">
+
 
