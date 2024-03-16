@@ -61,14 +61,17 @@
 - 미리 SCODA로 처리한 결과 파일도 공유 드립니다. [SCODA 결과 파일 다운로드](https://drive.google.com/file/d/13pDN9F2UkTwi8OhA9oBEEVEnPK_zieCo/view?usp=sharing) (위의 "사용할 데이터"를 SCODA에 업로드하여 얻은 결과이며 [주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/scoda_viz_practice_workshop.ipynb)에서 로드하여 데이터 마이닝 실습을 하실 수 있습니다.)
 
 ## 참고 사항
-- Cell-cell interaction, DEG 및 GSA/GSEA 결과 데이터의 구성
-  - cell-cell interaction 결과 (`uns['CCI_sample']`)
+참고 논문: [A Retrospective View of the Triple-Negative Breast Cancer Microenvironment: Novel Markers, Interactions, and Mechanisms of Tumor-Associated Components Using Public Single-Cell RNA-Seq Datasets](https://www.mdpi.com/2072-6694/16/6/1173#)
+  
+Cell-cell interaction, DEG 및 GSA/GSEA 결과 데이터의 구성
+
+- cell-cell interaction 결과 (`uns['CCI_sample']`)
 <img width="320" alt="CCI_result_structure" src="https://github.com/combio-dku/scoda_explorer/assets/82195405/65982226-cb15-434e-8116-00692e65ab74">
 
-  - DEG 결과 (`uns['DEG']`)
+- DEG 결과 (`uns['DEG']`)
 <img width="555" alt="DEG_result_structure" src="https://github.com/combio-dku/scoda_explorer/assets/82195405/8d092dcb-e127-4d13-9f27-4edceeae94a7">
 
-  - GSA/GSEA 결과 (`uns['GSA_up']`, `uns['GSA_down']`, `uns['GSEA']`)
+- GSA/GSEA 결과 (`uns['GSA_up']`, `uns['GSA_down']`, `uns['GSEA']`)
 <img width="555" alt="GSA_result_structure" src="https://github.com/combio-dku/scoda_explorer/assets/82195405/1d111fc8-ecaf-4f57-b0b9-94102b891498">
 
 
