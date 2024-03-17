@@ -9,7 +9,7 @@
 - __참가자 사전 지식:__
   - 생명과학/의학분야에 종사하시면서 단일세포 RNA-seq 기술이 어디에 어떻게 쓰이는지 대략적으로는 아시는 분.
   - Python이나 R 사용 경험이 있으면 더 좋습니다.
-- [발표 자료](https://github.com/combio-dku/scoda_explorer/blob/main/SCODA_Workshop_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_v01.pdf)
+- [발표 자료](https://drive.google.com/file/d/1bMNvaSmhc1oNzGoVD0h1akBZqdL5xhKU/view?usp=sharing)
 
 
 ## 진행 순서
