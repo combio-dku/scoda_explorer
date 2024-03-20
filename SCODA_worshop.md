@@ -10,7 +10,7 @@
   - 생명과학/의학분야에 종사하시면서 단일세포 RNA-seq 기술이 어디에 어떻게 쓰이는지 대략적으로는 아시는 분.
   - Python이나 R 사용 경험이 있으면 더 좋습니다.
 - [발표 자료](https://drive.google.com/file/d/1bMNvaSmhc1oNzGoVD0h1akBZqdL5xhKU/view?usp=sharing)
-
+- 참고 논문 (SCODA를 이용한 TNBC 연구): [A Retrospective View of the Triple-Negative Breast Cancer Microenvironment: Novel Markers, Interactions, and Mechanisms of Tumor-Associated Components Using Public Single-Cell RNA-Seq Datasets](https://www.mdpi.com/2072-6694/16/6/1173#)
 
 ## 진행 순서
 1. SCODA 간략 소개 (10분)
@@ -61,9 +61,7 @@
 - 미리 SCODA로 처리한 결과 파일도 공유 드립니다. [SCODA 결과 파일 다운로드](https://drive.google.com/file/d/13pDN9F2UkTwi8OhA9oBEEVEnPK_zieCo/view?usp=sharing) (위의 "사용할 데이터"를 SCODA에 업로드하여 얻은 결과이며 [주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/scoda_viz_practice_workshop.ipynb)에서 로드하여 데이터 마이닝 실습을 하실 수 있습니다.)
 
 ## 참고 사항
-1. 참고 논문 (SCODA를 이용한 TNBC 연구): [A Retrospective View of the Triple-Negative Breast Cancer Microenvironment: Novel Markers, Interactions, and Mechanisms of Tumor-Associated Components Using Public Single-Cell RNA-Seq Datasets](https://www.mdpi.com/2072-6694/16/6/1173#)
-
-2. Cell-cell interaction, DEG 및 GSA/GSEA 결과 데이터의 구성
+Cell-cell interaction, DEG 및 GSA/GSEA 결과 데이터의 구성
 
 - cell-cell interaction 결과 (`uns['CCI_sample']`)
 <img width="320" alt="CCI_result_structure" src="https://github.com/combio-dku/scoda_explorer/assets/82195405/65982226-cb15-434e-8116-00692e65ab74">
