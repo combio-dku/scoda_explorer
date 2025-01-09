@@ -5,12 +5,13 @@
 - __연사:__ &nbsp;&nbsp; 윤석현 교수 (단국대)
 - __목적:__ &nbsp;&nbsp; SCODA 의 활용법 실습을 통해 단일세포 RNA-seq 데이터 분석 능력을 습득한다.
 <br></br>
-- [__발표 자료__](https://drive.google.com/file/d/1bMNvaSmhc1oNzGoVD0h1akBZqdL5xhKU/view?usp=sharing)
 - __개인 준비:__ &nbsp;&nbsp; 무선랜과 웹브라우저가 설치된 Laptop (Tablet도 가능은 한데 추천하지는 않습니다.)
 - __사용 언어:__ &nbsp;&nbsp; python3
 - __사전 지식:__
   - 생명과학/의학분야에 종사하시면서 단일세포 RNA-seq 기술이 어디에 어떻게 쓰이는지 대략적으로는 아시는 분.
   - Python이나 R 사용 경험이 있으면 더 좋습니다.
+<br></br>
+- [__발표 자료__](https://drive.google.com/file/d/1bMNvaSmhc1oNzGoVD0h1akBZqdL5xhKU/view?usp=sharing)
 
 
 ## 워크샵 진행 순서
