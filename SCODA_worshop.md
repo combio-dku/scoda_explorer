@@ -1,17 +1,16 @@
 # SCODA Workshop
-- __일시:__ 2025년 1월 23일 (목) 09:30~17:30
-- __장소:__ 동국대학교 법학관 2층 B260호 
-- __주최:__ (주) 엠엘비아이랩
-- __연사:__ 윤석현 교수 (단국대)
-- __사용언어:__ python3
-- __개별 준비물:__ 웹브라우저가 설치된 PC or Laptop (Tablet도 가능은 한데 추천하지는 않습니다. 브라우저에 따라 결과 파일 다운이 잘 않되는 경우가 있어서)
-- __목적:__ SCODA 의 활용법 실습을 통해 단일세포 RNA-seq 데이터 분석 능력을 습득한다.
+- __일시:__ &nbsp;&nbsp; 2025년 1월 23일 (목) 09:30~17:30
+- __장소:__ &nbsp;&nbsp; 동국대학교 법학관 2층 B260호 
+- __주최:__ &nbsp;&nbsp; (주) 엠엘비아이랩
+- __연사:__ &nbsp;&nbsp; 윤석현 교수 (단국대)
+- __사용언어:__ &nbsp;&nbsp; python3
+- __개인 준비물:__ &nbsp;&nbsp; 웹브라우저가 설치된 PC or Laptop (Tablet도 가능은 한데 추천하지는 않습니다. 브라우저에 따라 결과 파일 다운이 잘 않되는 경우가 있어서)
+- __목적:__ &nbsp;&nbsp; SCODA 의 활용법 실습을 통해 단일세포 RNA-seq 데이터 분석 능력을 습득한다.
 - __참가자 사전 지식:__
   - 생명과학/의학분야에 종사하시면서 단일세포 RNA-seq 기술이 어디에 어떻게 쓰이는지 대략적으로는 아시는 분.
   - Python이나 R 사용 경험이 있으면 더 좋습니다.
 - [발표 자료](https://drive.google.com/file/d/1bMNvaSmhc1oNzGoVD0h1akBZqdL5xhKU/view?usp=sharing)
-- 참고 논문1 (SCODA를 이용한 자가면역질환(만성 대장염) 연구): [Integrative analysis of single-cell RNA-seq and gut microbiome metabarcoding data elucidates macrophage dysfunction in mice with DSS-induced ulcerative colitis](https://www.nature.com/articles/s42003-024-06409-w)
-- 참고 논문2 (SCODA를 이용한 TNBC 연구): [A Retrospective View of the Triple-Negative Breast Cancer Microenvironment: Novel Markers, Interactions, and Mechanisms of Tumor-Associated Components Using Public Single-Cell RNA-Seq Datasets](https://www.mdpi.com/2072-6694/16/6/1173#)
+
 
 ## 진행 순서
 1. __10:30-12:00__  &nbsp;&nbsp; SCODA를 이용한 단일세포 RNA-seq 분석 개요
@@ -50,4 +49,6 @@ Cell-cell interaction, DEG 및 GSA/GSEA 결과 데이터의 구성
 - GSA/GSEA 결과 (`uns['GSA_up']`, `uns['GSA_down']`, `uns['GSEA']`)
 <img width="555" alt="GSA_result_structure" src="https://github.com/combio-dku/scoda_explorer/assets/82195405/1d111fc8-ecaf-4f57-b0b9-94102b891498">
 
-
+## 참고 논문
+1. (SCODA를 이용한 자가면역질환(만성 대장염) 연구): [Integrative analysis of single-cell RNA-seq and gut microbiome metabarcoding data elucidates macrophage dysfunction in mice with DSS-induced ulcerative colitis](https://www.nature.com/articles/s42003-024-06409-w)
+2. (SCODA를 이용한 TNBC 연구): [A Retrospective View of the Triple-Negative Breast Cancer Microenvironment: Novel Markers, Interactions, and Mechanisms of Tumor-Associated Components Using Public Single-Cell RNA-Seq Datasets](https://www.mdpi.com/2072-6694/16/6/1173#)
