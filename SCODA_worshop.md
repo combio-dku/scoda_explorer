@@ -15,13 +15,13 @@
 
 
 ## 워크샵 진행 순서
-1. __10:30-12:00__  &nbsp;&nbsp; SCODA를 이용한 단일세포 RNA-seq 분석 개요
-2. __12:00-13:00__  &nbsp;&nbsp; 점심 식사
-3. __13:00-14:20__  &nbsp;&nbsp; AnnData 포맷 소개, SCANPY를 이용한 전처리, 세포유형식별 실습
-4. __14:20-14:35__  &nbsp;&nbsp; Break
-5. __14:35-15:55__  &nbsp;&nbsp; CNV와 Ploidy 추정, 세포간 상호작용 분석
-6. __15:55-16:10__  &nbsp;&nbsp; Break
-7. __16:10-17:30__  &nbsp;&nbsp; DEG 분석, 마커탐색, Gene Set Enrichment 분석
+1. &nbsp;__10:30-12:00__  &nbsp;&nbsp; SCODA를 이용한 단일세포 RNA-seq 분석 개요
+2. &nbsp;__12:00-13:00__  &nbsp;&nbsp; 점심 식사
+3. &nbsp;__13:00-14:20__  &nbsp;&nbsp; AnnData 포맷 소개, SCANPY를 이용한 전처리, 세포유형식별 실습
+4. &nbsp;__14:20-14:35__  &nbsp;&nbsp; Break
+5. &nbsp;__14:35-15:55__  &nbsp;&nbsp; CNV와 Ploidy 추정, 세포간 상호작용 분석
+6. &nbsp;__15:55-16:10__  &nbsp;&nbsp; Break
+7. &nbsp;__16:10-17:30__  &nbsp;&nbsp; DEG 분석, 마커탐색, Gene Set Enrichment 분석
 
 ## SCODA 간략 소개
 - 워크샵 당일날 10분 정도 간략하게 SCODA에 대한 소개를 드리겠지만 사전에 시간이 되신 다면 [BRIC 기업기술 웨비나: SCODA 소개](https://youtu.be/ajRnK3QeCWA?si=XGiIjtE07IMfZjdz)를 미리 보시고 오시면 더 좋습니다.
