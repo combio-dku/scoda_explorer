@@ -14,13 +14,13 @@
 - 참고 논문2 (SCODA를 이용한 TNBC 연구): [A Retrospective View of the Triple-Negative Breast Cancer Microenvironment: Novel Markers, Interactions, and Mechanisms of Tumor-Associated Components Using Public Single-Cell RNA-Seq Datasets](https://www.mdpi.com/2072-6694/16/6/1173#)
 
 ## 진행 순서
-1. __10:30-12:00__ SCODA를 이용한 단일세포 RNA-seq 분석 개요
-2. __12:00-13:00__ 점심 식사
-3. __13:00-14:20__ AnnData 포맷 소개, SCANPY를 이용한 전처리, 세포유형식별 실습
-4. __14:20-14:35__ Break
-5. __14:35-15:55__ CNV와 Ploidy 추정, 세포간 상호작용 분석
-6. __15:55-16:10__ Break
-7. __16:10-17:30__ DEG 분석, 마커탐색, Gene Set Enrichment 분석
+1. __10:30-12:00__   SCODA를 이용한 단일세포 RNA-seq 분석 개요
+2. __12:00-13:00__   점심 식사
+3. __13:00-14:20__   AnnData 포맷 소개, SCANPY를 이용한 전처리, 세포유형식별 실습
+4. __14:20-14:35__   Break
+5. __14:35-15:55__   CNV와 Ploidy 추정, 세포간 상호작용 분석
+6. __15:55-16:10__   Break
+7. __16:10-17:30__   DEG 분석, 마커탐색, Gene Set Enrichment 분석
 
 ## 1. SCODA 간략 소개
 - 워크샵 당일날 10분 정도 간략하게 SCODA에 대한 소개를 드리겠지만 사전에 시간이 되신 다면 [BRIC 기업기술 웨비나: SCODA 소개](https://youtu.be/ajRnK3QeCWA?si=XGiIjtE07IMfZjdz)를 미리 보시고 오시면 더 좋습니다.
