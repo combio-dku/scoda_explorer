@@ -34,11 +34,10 @@
 8. Colab서버에 결과 데이터 업로드 (5분)
 
 
-## 미리 준비해두면 좋습니다. 🙏
-워크샵 당일날 30명의 인원이 동시에 SCODA 서버에 접속하여 SCODA를 실행하면 서버에 무리가 갈 수 있고 예기치 않은 문제도 발생할 수 있어서 만약 시간이 되신 다면 아래 절차에 따라 미리 SCODA 결과 파일을 얻어서 워크샵에서 사용하시면 좀 더 시간 save가 될듯 합니다. (SCODA 서버는 24시간 켜져 있습니다.)
+## [SCODA pipeline](https://mlbi-lab.net) 활용법
 
 1. 사용할 데이터를 다운 받는다. [여기 클릭](https://drive.google.com/file/d/1DF_dGMSOi54eVc5_2DVxsWv71feFvgcb/view?usp=sharing)
-2. SCODA 서버에 접속한다. [SCODA 서버 homepage](https://mlbi-lab.net)
+2. SCODA 데모 서버에 접속한다. [SCODA 서버 homepage](https://mlbi-lab.net)
 3. Mandatory Input 부분에서 ....
    1. 라디오버튼 중 `Compressed 10x_mtx file sets + (optional) meta_data.csv`를 선택한다.
    2. `파일선택` 버튼을 누르고 다운 받은 파일을 선택한다.
@@ -46,8 +45,7 @@
    4. `Submit` 버튼을 눌러 SCODA가 업로드한 데이터를 처리하도록 한다.
    5. 그러면 Progress 창이 뜨고 SCODA 실행 내역이 나타난다. (처리 완료까지 5~10분 소요)
    6. SCODA의 처리가 완료되어 아래 쪽에 `Download Result` 버튼이 나오면 이를 클릭하여 SCODA 결과 파일을 다운 받는다. 
-   7. 다운 받은 SCODA 결과 파일을 저장해 두었다가 워크샵날 데이터 마이닝 때 사용한다. 👍
-- 미리 SCODA로 처리한 결과 파일도 공유 드립니다. [SCODA 결과 파일 다운로드](https://drive.google.com/file/d/13pDN9F2UkTwi8OhA9oBEEVEnPK_zieCo/view?usp=sharing) (위의 "사용할 데이터"를 SCODA에 업로드하여 얻은 결과이며 [주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/scoda_viz_practice_workshop.ipynb)에서 로드하여 데이터 마이닝 실습을 하실 수 있습니다.)
+   7. 다운 받은 SCODA 결과 파일을 제공된 주피터 노트북에서 열어 데이터 마이닝을 수행한다.
 
 ## 참고 사항
 Cell-cell interaction, DEG 및 GSA/GSEA 결과 데이터의 구성
