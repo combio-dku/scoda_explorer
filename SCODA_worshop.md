@@ -26,6 +26,17 @@
 ## SCODA 간략 소개
 - 워크샵 당일날 간략하게 SCODA에 대한 소개를 드리겠지만 사전에 시간이 되신 다면 [BRIC 기업기술 웨비나: SCODA 소개](https://youtu.be/ajRnK3QeCWA?si=XGiIjtE07IMfZjdz)를 미리 보시고 오시면 더 좋습니다.
 
+## 실습 준비
+
+1. (미리 SCODA로 처리한) [실습 데이터](https://shorturl.at/Rzq8K)를 다운받는다.
+2. [실습용 주피터 노트북](https://shorturl.at/bduMm)을 다운받는디.
+3. Google Chrome을 열고 본인의 구글 계정으로 로그인한 후 본인의 Google drive에 접속한다.
+4. 다운받은 실습용 데이터 파일(.tar.gz)과 실습용 주피터노트북 파일(.ipynb)을 Google drive의 적당한 폴더에 저장한다.
+5. Google drive에서 업로드한 실용용 주피터노트북 파일을 더블클릭하면 Google Colab에서 자동으로 열린다.
+6. Google Colab에서 실습용 주피터 노트북이 열렸으면 실습 준비 끝.
+
+- 5에서 실용용 주피터노트북 파일을 더블클릭했는데 바로 Google Colab으로 연결되지 않을 경우, 자동 앱연결이 활성화되지 않은 것이므로 실습용 주피터파일을 마우스로 클릭한 후 오른쪽 버든 -> 연결앱 클릭 -> 열리는 창에서 Google Colab을 검색하여 설정하면 됩니다.
+ 
 ## [SCODA pipeline](https://mlbi-lab.net) 활용법
 
 1. 사용할 데이터를 다운 받는다. [여기 클릭](https://drive.google.com/file/d/1DF_dGMSOi54eVc5_2DVxsWv71feFvgcb/view?usp=sharing)
