@@ -36,8 +36,12 @@
 6. Google Colab에서 실습용 주피터 노트북이 열렸으면 실습 준비 끝.
 
 - 5에서 실용용 주피터노트북 파일을 더블클릭했는데 바로 Google Colab으로 연결되지 않을 경우, 자동 앱연결이 활성화되지 않은 것이므로 실습용 주피터파일을 마우스로 클릭한 후 오른쪽 버든 -> 연결앱 클릭 -> 열리는 창에서 Google Colab을 검색하여 설정하면 됩니다.
+
+## 추가 실습: SCODA결과로부터 KEGG pathview 생성하여 확인하기
+
+1. [KEGG_Pathview_Gen_for_SCODA 페이지](https://github.com/combio-dku/KEGGPathviewGen4SCODA)에 접속한다.
  
-## [SCODA pipeline](https://mlbi-lab.net) 활용법
+## SCODA pipeline 사용해보기
 
 1. 사용할 데이터를 다운 받는다. [여기 클릭](https://drive.google.com/file/d/1DF_dGMSOi54eVc5_2DVxsWv71feFvgcb/view?usp=sharing)
 2. SCODA 데모 서버에 접속한다. [SCODA 서버 homepage](https://mlbi-lab.net)
