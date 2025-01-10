@@ -1,4 +1,4 @@
-# SCODA Workshop
+# 실습 워크샵: Python과 SCODA로 분석하는 단일세포 RNA-seq 데이터 (2일차)
 - __일시:__ &nbsp;&nbsp; 2025년 1월 23일 (목) 09:30~17:30
 - __장소:__ &nbsp;&nbsp; 동국대학교 법학관 2층 B260호 
 - __주최:__ &nbsp;&nbsp; (주) 엠엘비아이랩
