@@ -46,7 +46,7 @@
 5. 다운받은 데이터 파일을 파일뷰어 영역에 drag & drop 하여 실습용 데이터 파일을 Colab 서버에 업로드한다.
 6. 실습용 데이터 파일의 업로드가 완료되었으면 주피터 노트북의 코드 셀을 하나씩 실행하여 실습을 진행한다. (이때 Step 0의 패키지 설치도 수행해야 한다.)
 
--. 참고로 위의 주피터 노트북과 실습용 데이터 파일은 [KEGG_Pathview_Gen_for_SCODA 페이지](https://github.com/combio-dku/KEGGPathviewGen4SCODA)에서 볼수 있다.
+- 참고로 위의 주피터 노트북과 실습용 데이터 파일은 [KEGG_Pathview_Gen_for_SCODA 페이지](https://github.com/combio-dku/KEGGPathviewGen4SCODA)에서 볼수 있다.
     
 ## SCODA pipeline 사용해보기
 
