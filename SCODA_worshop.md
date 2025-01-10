@@ -40,7 +40,7 @@
 ## 추가 실습: SCODA결과로부터 KEGG pathview 생성하여 확인하기
 
 1. [실습용 데이터 파일](https://github.com/combio-dku/KEGGPathviewGen4SCODA/blob/main/data/example_human_brca_12k_results.h5ad.tar.gz)을 다운받는다.
-2. [여기]([https:/](https://colab.research.google.com/github.com/combio-dku/KEGGPathviewGen4SCODA/blob/main/example_kegg_pathview_gen_for_scoda.ipynb)를 클릭하여 실습용 주피터 노트북 파일을 Google Colab에서 연다.
+2. [여기](https://colab.research.google.com/github/combio-dku/KEGGPathviewGen4SCODA/blob/main/example_kegg_pathview_gen_for_scoda.ipynb)를 클릭하여 실습용 주피터 노트북 파일을 Google Colab에서 연다.
 3. 
 4. [KEGG_Pathview_Gen_for_SCODA 페이지](https://github.com/combio-dku/KEGGPathviewGen4SCODA)에 접속한다.
     
