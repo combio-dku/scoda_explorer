@@ -1,9 +1,4 @@
-# Python과 SCODA로 분석하는 단일세포 RNA-seq 데이터 (2일차)
-- __일시:__ &nbsp;&nbsp; 2025년 1월 23일 (목) 09:30~17:30
-- __장소:__ &nbsp;&nbsp; 동국대학교 법학관 2층 B260호 
-- __주최:__ &nbsp;&nbsp; (주) 엠엘비아이랩
-- __연사:__ &nbsp;&nbsp; 윤석현 교수 (단국대) syoon@dku.edu
-- __목적:__ &nbsp;&nbsp; SCODA 의 활용법 실습을 통해 단일세포 RNA-seq 데이터 분석 능력을 습득한다.
+# KSBi-BIML 2025: Single-cell RNA-seq data analysis for marker and druggable target discovery
 <br></br>
 - __개인 준비:__ &nbsp;&nbsp; 무선랜과 웹브라우저가 설치된 Laptop (Tablet도 가능은 한데 추천하지는 않습니다.)
 - __사용 언어:__ &nbsp;&nbsp; python3
@@ -15,13 +10,10 @@
 
 
 ## 워크샵 진행 순서
-1. &nbsp;&nbsp;__10:30-12:00__  &nbsp;&nbsp; SCODA를 이용한 단일세포 RNA-seq 분석 개요
-2. &nbsp;&nbsp;__12:00-13:00__  &nbsp;&nbsp; 점심 식사
-3. &nbsp;&nbsp;__13:00-14:20__  &nbsp;&nbsp; AnnData 포맷 소개, SCANPY를 이용한 전처리, 세포유형식별 실습
-4. &nbsp;&nbsp;__14:20-14:35__  &nbsp;&nbsp; Break
-5. &nbsp;&nbsp;__14:35-15:55__  &nbsp;&nbsp; CNV와 Ploidy 추정, 세포간 상호작용 분석
-6. &nbsp;&nbsp;__15:55-16:10__  &nbsp;&nbsp; Break
-7. &nbsp;&nbsp;__16:10-17:30__  &nbsp;&nbsp; DEG 분석, 마커탐색, Gene Set Enrichment 분석
+1. &nbsp;&nbsp;__1차시:__  &nbsp;&nbsp; SCODA를 이용한 단일세포 RNA-seq 분석 개요
+2. &nbsp;&nbsp;__2차시:__  &nbsp;&nbsp; AnnData 포맷 소개, SCANPY를 이용한 전처리, 세포유형식별 실습
+3. &nbsp;&nbsp;__3차시:__  &nbsp;&nbsp; CNV와 Ploidy 추정, 세포간 상호작용 분석
+4. &nbsp;&nbsp;__4차시:__  &nbsp;&nbsp; DEG 분석, 마커탐색, Gene Set Enrichment 분석
 
 ## SCODA 간략 소개
 - 워크샵 당일날 간략하게 SCODA에 대한 소개를 드리겠지만 사전에 시간이 되신 다면 [BRIC 기업기술 웨비나: SCODA 소개](https://youtu.be/ajRnK3QeCWA?si=XGiIjtE07IMfZjdz)를 미리 보시고 오시면 더 좋습니다.
