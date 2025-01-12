@@ -1,5 +1,6 @@
 # KSBi-BIML 2025: Single-cell RNA-seq data analysis for marker and druggable target discovery
 ## 사전 준비
+- __연사:__ &nbsp;&nbsp; 윤석현 교수 (단국대) syoon@dku.edu
 - __개인 준비:__ &nbsp;&nbsp; 무선랜과 웹브라우저가 설치된 Laptop (Tablet도 가능은 한데 추천하지는 않습니다.)
 - __사용 언어:__ &nbsp;&nbsp; python3 (Google Colab을 사용할 예정이라 뭔가 따로 설치할 필요는 없습니다.)
 - __발표 자료:__ &nbsp;&nbsp; 따로 이메일로 송부 드립니다.
