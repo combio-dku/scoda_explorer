@@ -1,5 +1,6 @@
 # KSBi-BIML 2025: Single-cell RNA-seq data analysis for marker and druggable target discovery
 ## 사전 준비
+- [__발표 자료 다운로드__](https://shorturl.at/LTkOL)
 <br></br>
 - __개인 준비:__ &nbsp;&nbsp; 무선랜과 웹브라우저가 설치된 Laptop (Tablet도 가능은 한데 추천하지는 않습니다.)
 - __사용 언어:__ &nbsp;&nbsp; python3
@@ -7,7 +8,6 @@
   - 생명과학/의학분야에 종사하시면서 단일세포 RNA-seq 기술이 어디에 어떻게 쓰이는지 대략적으로는 알아야 함.
   - Python이나 R 사용 경험이 있으면 더 좋습니다.
 <br></br>
-- [__발표 자료 다운로드__](https://shorturl.at/LTkOL)
 
 
 ## 워크샵 진행 순서
