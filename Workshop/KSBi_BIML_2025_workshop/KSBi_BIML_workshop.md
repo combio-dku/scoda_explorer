@@ -1,7 +1,8 @@
 # KSBi-BIML 2025: Single-cell RNA-seq data analysis for marker and druggable target discovery
 ## 사전 준비
 - __개인 준비:__ &nbsp;&nbsp; 무선랜과 웹브라우저가 설치된 Laptop (Tablet도 가능은 한데 추천하지는 않습니다.)
-- __사용 언어:__ &nbsp;&nbsp; python3
+- __사용 언어:__ &nbsp;&nbsp; python3 (Google Colab을 사용할 예정이라 뭔가 따로 설치할 필요는 없습니다.)
+- __발표 자료:__ &nbsp;&nbsp; 따로 이메일로 송부 드립니다.
 - __사전 지식:__
   - 생명과학/의학분야에 종사하시면서 단일세포 RNA-seq 기술이 어디에 어떻게 쓰이는지 대략적으로는 알아야 합니다.
   - Python이나 R 사용 경험이 있으면 더 좋습니다.
@@ -30,8 +31,8 @@
 
 1. (미리 SCODA로 처리한) [실습용 데이터 파일](https://github.com/combio-dku/KEGGPathviewGen4SCODA/blob/main/data/example_human_brca_12k_results.h5ad.tar.gz)을 다운받는다. (위의 실습용 데이터와 다른 파일임)
 2. [여기](https://colab.research.google.com/github/combio-dku/KEGGPathviewGen4SCODA/blob/main/example_kegg_pathview_gen_for_scoda.ipynb)를 클릭하여 실습용 주피터 노트북 파일을 Google Colab에서 연다. (위의 실습용 주피터 노트북과 다른 R용 노트북임.)
-3. Colab 탭 우측 상단의 '연결' 버튼을 눌러 Colab 서버에 연결한다.
-4. 좌측 맨아래 '파일' 아이콘을 눌러 파일 뷰어를 연다.
+3. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다.
+4. 좌측 맨아래 `파일` 아이콘을 눌러 파일 뷰어를 연다.
 5. 다운받은 데이터 파일을 파일뷰어 영역에 drag & drop 하여 실습용 데이터 파일을 Colab 서버에 업로드한다.
 6. 실습용 데이터 파일의 업로드가 완료되었으면 주피터 노트북의 코드 셀을 하나씩 실행하여 실습을 진행한다. (이때 Step 0의 패키지 설치도 수행해야 한다.)
 
