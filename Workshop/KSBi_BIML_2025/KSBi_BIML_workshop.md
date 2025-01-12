@@ -15,7 +15,7 @@
 4. &nbsp;&nbsp; DEG 분석, 마커탐색, Gene Set Enrichment 분석 (1시간)
 
 ## SCODA 간략 소개
-- 워크샵 당일날 간략하게 SCODA에 대한 소개를 드리겠지만 사전에 시간이 되신 다면 [BRIC 기업기술 웨비나: SCODA 소개](https://youtu.be/ajRnK3QeCWA?si=XGiIjtE07IMfZjdz)를 미리 보시고 오시면 더 좋습니다.
+- 워크샵 당일날 간략하게 SCODA에 대한 소개를 드리겠지만 사전에 시간이 되신 다면 [BRIC 기업기술 웨비나: SCODA 소개](https://youtu.be/ajRnK3QeCWA?si=XGiIjtE07IMfZjdz)를 미리 보시고 오시면 더 좋습니다. ([SCODA 소개 발표자료)](https://github.com/combio-dku/scoda_explorer/blob/main/SCODA_%EC%86%8C%EA%B0%9C_BRIC_%EA%B8%B0%EC%97%85%EA%B8%B0%EC%88%A0%EC%9B%A8%EB%B9%84%EB%82%98_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf))
 
 ## 실습 준비
 
