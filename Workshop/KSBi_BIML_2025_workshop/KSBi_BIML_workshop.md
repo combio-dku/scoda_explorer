@@ -1,4 +1,5 @@
 # KSBi-BIML 2025: Single-cell RNA-seq data analysis for marker and druggable target discovery
+## 사전 준비
 <br></br>
 - __개인 준비:__ &nbsp;&nbsp; 무선랜과 웹브라우저가 설치된 Laptop (Tablet도 가능은 한데 추천하지는 않습니다.)
 - __사용 언어:__ &nbsp;&nbsp; python3
