@@ -1,20 +1,16 @@
 # KSBi-BIML 2025: Single-cell RNA-seq data analysis for marker and druggable target discovery
 ## 사전 준비
-- [__발표 자료 다운로드__](https://shorturl.at/LTkOL)
-<br></br>
 - __개인 준비:__ &nbsp;&nbsp; 무선랜과 웹브라우저가 설치된 Laptop (Tablet도 가능은 한데 추천하지는 않습니다.)
 - __사용 언어:__ &nbsp;&nbsp; python3
 - __사전 지식:__
   - 생명과학/의학분야에 종사하시면서 단일세포 RNA-seq 기술이 어디에 어떻게 쓰이는지 대략적으로는 알아야 합니다.
   - Python이나 R 사용 경험이 있으면 더 좋습니다.
-<br></br>
-
 
 ## 워크샵 진행 순서
-1. &nbsp;&nbsp;__1차시:__  &nbsp;&nbsp; SCODA를 이용한 단일세포 RNA-seq 분석 개요
-2. &nbsp;&nbsp;__2차시:__  &nbsp;&nbsp; AnnData 포맷 소개, SCANPY를 이용한 전처리, 세포유형식별 실습
-3. &nbsp;&nbsp;__3차시:__  &nbsp;&nbsp; CNV와 Ploidy 추정, 세포간 상호작용 분석
-4. &nbsp;&nbsp;__4차시:__  &nbsp;&nbsp; DEG 분석, 마커탐색, Gene Set Enrichment 분석
+1. &nbsp;&nbsp; SCODA를 이용한 단일세포 RNA-seq 분석 개요 (1시간)
+2. &nbsp;&nbsp; AnnData 포맷 소개, SCANPY를 이용한 전처리, 세포유형식별 실습 (1시간)
+3. &nbsp;&nbsp; CNV와 Ploidy 추정, 세포간 상호작용 분석 (1시간)
+4. &nbsp;&nbsp; DEG 분석, 마커탐색, Gene Set Enrichment 분석 (1시간)
 
 ## SCODA 간략 소개
 - 워크샵 당일날 간략하게 SCODA에 대한 소개를 드리겠지만 사전에 시간이 되신 다면 [BRIC 기업기술 웨비나: SCODA 소개](https://youtu.be/ajRnK3QeCWA?si=XGiIjtE07IMfZjdz)를 미리 보시고 오시면 더 좋습니다.
