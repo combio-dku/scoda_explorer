@@ -26,8 +26,8 @@ MIN_NUM_CELLS_FOR_CCI = 40
 UNIT_OF_CCI_RUN = 'sample'  
 
 ## Valid when UNIT_OF_CCI_RUN = 'sample' 
-## When UNIT_OF_CCI_RUN is 'sample', CCIs will be counted only if 
-## they appears at least this percentage of samples.
+## When UNIT_OF_CCI_RUN is 'sample', CCIs per condition will be 
+## counted only if they appears at least this percentage of samples.
 CCI_MIN_OCC_FREQ_TO_COUNT = 0.5   
 
 ## P-value cutoff to filter out CCIs
