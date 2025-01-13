@@ -30,7 +30,7 @@
 2. [실습용 주피터 노트북](https://shorturl.at/bduMm)을 다운받는다. (또는, [여기](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/scoda_viz_practice_workshop_v2.ipynb)를 클릭하여 바로 Colab에서 열어도 됨)
 3. Google Chrome을 열고 본인의 구글 계정으로 로그인한 후 본인의 Google drive에 접속한다.
 4. 다운받은 실습용 데이터 파일(.tar.gz)과 실습용 주피터노트북 파일(.ipynb)을 Google drive의 적당한 폴더에 저장한다.
-5. Google drive에서, 업로드한 실용용 주피터노트북 파일을 더블클릭하면 Google Colab에서 자동으로 열린다.
+5. Google drive에서, 업로드한 실습용 주피터노트북 파일을 더블클릭하면 Google Colab에서 자동으로 열린다.
 6. Google Colab에서 실습용 주피터 노트북이 열렸으면 실습 준비 끝.
 
 - __참고 사항:__ 5에서 실습용 주피터노트북 파일을 더블클릭했는데 바로 Google Colab으로 연결되지 않을 경우, 자동 앱연결이 활성화되지 않은 것이므로 실습용 주피터파일을 마우스로 클릭한 후 오른쪽 버튼 클릭 -> 연결앱 클릭 -> 열리는 창에서 'Google Colab'을 검색하여 연결앱으로 설정하면 됩니다.
