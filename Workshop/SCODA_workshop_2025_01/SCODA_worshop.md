@@ -27,7 +27,7 @@
 ## 실습 준비
 
 1. (미리 SCODA로 처리한) [실습 데이터](https://shorturl.at/Rzq8K)를 다운받는다.
-2. [실습용 주피터 노트북](https://shorturl.at/bduMm)을 다운받는다. 
+2. [실습용 주피터 노트북](https://shorturl.at/bduMm){:target="_blank"}을 다운받는다. 
 3. Google Chrome을 열고 본인의 구글 계정으로 로그인한 후 본인의 Google drive에 접속한다.
 4. 다운받은 실습용 데이터 파일(.tar.gz)과 실습용 주피터노트북 파일(.ipynb)을 Google drive의 적당한 폴더에 저장한다.
 5. Google drive에서, 업로드한 실습용 주피터노트북 파일을 더블클릭하면 Google Colab에서 자동으로 열린다.
