@@ -38,7 +38,7 @@ CCI_PVAL_CUTOFF = 0.1
 CCI_MEAN_CUTOFF = 0.1  
 
 ## celltype taxonomy level for CCI & DEG analysis
-## can be only of celltype_major, celltype_minor, or celltype_subset
+## It can be one of celltype_major, celltype_minor, or celltype_subset.
 ## CCI and DEG will be performed based on this level of celltype taxonomy.
 CCI_DEG_BASE = 'celltype_minor'  
 
