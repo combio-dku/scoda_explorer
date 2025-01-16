@@ -19,8 +19,8 @@
 ## 실습 준비
 
 1. Google Chrome을 열고 본인의 구글 계정으로 로그인한 후 Google drive에 접속한다.
-2. (미리 SCODA로 처리한) [실습 데이터]([https://shorturl.at/Rzq8K](https://drive.google.com/file/d/1OUWkbAcKE9nfA9YIapY346L-wkJq31zL/view?usp=drive_link))를 다운받는다.
-3. [실습용 주피터 노트북]([https://shorturl.at/bduMm](https://drive.google.com/file/d/1f3PH8CqKp9tDZyRF5dG_GZS_o0DEjEmE/view?usp=drive_link))을 다운받는다.
+2. (미리 SCODA로 처리한) [실습 데이터](https://drive.google.com/file/d/1OUWkbAcKE9nfA9YIapY346L-wkJq31zL/view?usp=drive_link)를 다운받는다.
+3. [실습용 주피터 노트북](https://drive.google.com/file/d/1f3PH8CqKp9tDZyRF5dG_GZS_o0DEjEmE/view?usp=drive_link)을 다운받는다.
 4. 다운받은 실습용 데이터 파일(.tar.gz)과 실습용 주피터노트북 파일(.ipynb)을 Google drive의 적당한 폴더에 drag & drop하여 저장한다.
 5. Google drive에서, 업로드한 실습용 주피터노트북 파일을 더블클릭하면 Google Colab에서 자동으로 열린다.
 6. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다.
