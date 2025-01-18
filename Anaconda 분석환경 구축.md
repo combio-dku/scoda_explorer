@@ -17,14 +17,13 @@
 - [여기](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)를 참고하여 conda 환경을 생성하고 필요한 패키지를 설치하여 사용하면 되는데 터미널 열기는 Windows의 경우 시작 -> Anaconda (anaconda3) -> Anaconda Prompt 를 실행하여 터미널을 열면되고 Mac OS의 경우 응용 프로그램에서 Terminal (터미널)을 실행시키면 됩니다.
 
 ## R을 사용하기 위한 Conda 환경 만들기
-Anaconda Navigator에서도 좌측 메뉴에서 Environment를 선택하여 R을 사용하기 위한 conda 환경을 생성할 수 있지만 R 버전이 맞지않을 수 있어 터미널에서 conda command를 이용하는 것이 좋습니다. 만약 원하는 R버전이 R4.4라면 다음과 같이 진행하면 됩니다.
+Anaconda Navigator에서도 좌측 메뉴에서 Environment를 선택하여 R을 사용하기 위한 conda 환경을 생성할 수 있지만 R 버전이 맞지않을 수 있어 터미널에서 conda command를 이용하는 것이 좋습니다. 다음과 같이 진행하면 됩니다.
 
-1. 위의 설명을 참고하여 터미널을 엽니다. (Command propt 앞에 (base)라고 나와야 합니다. 그래야 conda command를 사용할 수 있습니다.)
+1. 위의 설명을 참고하여 터미널을 엽니다. (Command propt 앞에 (base)라고 나와야 합니다.)
 2. 터미널에서 먼저 다음의 명령으로 환경을 새로 하나 만듧니다. `conda create -n r_env` (여기서 r_env는 새로 만들어지는 환경의 이름입니다.)
 3. (선택 사항) 만약 원하는 파이썬 버전이 있을 경우 `conda create -n r_env python=3.10`의 형태로 실행 합니다.
 4. 다음의 명령으로 새로만든 환경을 활성화 합니다. `conda activate r_env`
 5. 그러면 Command prompt 앞에 `(base)`가 `(r_env)`로 변경 됩니다.
 6. 다음의 명령으로 주피터 노트북을 설치 합니다. `conda install notebook`
-7. 다음의 명령으로 R을 설치합니다. `conda install -c conda-forge r-base`. (원하는 R버전이 있다면 뒤에 '=버전번호'를 붙이면 됩니다. 예를 들어 R4.1.2를 사용하고 싶다면 `conda install -c conda-forge r-base=4.1.2`을 실행하면 됩니다.)
-8. 주피터 노트북에서 R을 사용하려면 다음의 명령을 실행합니다. `conda install -c conda-forge r-essentials`
+8. R 설치와 함께 주피터 노트북에서 R을 사용하려면 다음의 명령을 실행합니다. `conda install -c conda-forge r-essentials`. 그러면 최신의 R버전이 설치되는데 만약 다른 버전의 R을 사용하고 싶다면 뒤에 r-base='버전'을 붙여서 실행하면 됩니다. 예를 들어 R4.1.0을 사용하고 싶다면 `conda install -c conda-forge r-essentials r-base=4.1.0`을 실행하면 됩니다.
 9. 이제 Command prompt에서 `jupyter notebook` 명령을 실행하면 브라우저에서 주피터가 열리고 노트북 열 때 R커널을 선택하여 노트북에서 R 명령을 사용할 수 있습니다. 
