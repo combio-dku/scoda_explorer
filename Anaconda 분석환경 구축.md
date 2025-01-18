@@ -1,9 +1,9 @@
 # Anaconda 분석 환경 구축
 ## Anaconda 설치 및 실행
-1. &nbsp;&nbsp; [여기](https://www.anaconda.com/download/success)에서 Anaconda individual edition을 다운 받습니다. (OS에 맞는 적당한 것을 다운 받되 Windows나 Mac의 경우 64-Bit Graphical Installer를 추천합니다.)
-3. &nbsp;&nbsp; 다운받은 설치파일을 실행시켜 Anaconda을 설치합니다. (동의를 한번하고 Next 버튼을 몇번 누르고 Install 버튼을 누르면 됩니다.)
-5. &nbsp;&nbsp; 설치가 완료되면 Windows의 경우 시작 메뉴에, Mac의 경우 응용 프로그램(Applications)에 "Anaconda Navigator" 가 생깁니다.
-7. &nbsp;&nbsp; "Anaconda Navigator"를 실행하면 창이 하나 뜨고 "JupyterLab"과 "Jupyter Notebook" 패널이 보입니다.
+1. [여기](https://www.anaconda.com/download/success)에서 Anaconda individual edition을 다운 받습니다. (OS에 맞는 적당한 것을 다운 받되 Windows나 Mac의 경우 64-Bit Graphical Installer를 추천합니다.)
+3. 다운받은 설치파일을 실행시켜 Anaconda을 설치합니다. (동의를 한번하고 Next 버튼을 몇번 누르고 Install 버튼을 누르면 됩니다.)
+5. 설치가 완료되면 Windows의 경우 시작 메뉴에, Mac의 경우 응용 프로그램(Applications)에 "Anaconda Navigator" 가 생깁니다.
+7. "Anaconda Navigator"를 실행하면 창이 하나 뜨고 "JupyterLab"과 "Jupyter Notebook" 패널이 보입니다.
 8. "JupyterLab"과 "Jupyter Notebook" 둘 중 하나를 클릭하면 터미털 창이 먼저 하나 뜨고 이 후 브라우저기 뜨면서 주피터 창이 열리는데 그러면 사용 준비가 된 것입니다.
 
 ![image](https://github.com/user-attachments/assets/0f4d9cfb-14cf-4711-84d5-f2b442ee3582)
