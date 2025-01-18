@@ -19,7 +19,7 @@
 ## R을 사용하기 위한 Conda 환경 만들기
 Anaconda Navigator에서도 좌측 메뉴에서 Environment를 선택하여 R을 사용하기 위한 conda 환경을 생성할 수 있지만 R 버전이 맞지않을 수 있어 터미널에서 conda command를 이용하는 것이 좋습니다. 다음과 같이 진행하면 됩니다.
 
-1. 위의 설명을 참고하여 터미널을 엽니다. (Command propt 앞에 (base)라고 나와야 합니다.)
+1. 위의 설명을 참고하여 터미널을 엽니다. (Command prompt 앞에 (base)라고 나와야 합니다.)
 2. 터미널에서 먼저 다음의 명령으로 conda 환경을 새로 하나 만듧니다. `conda create -n r_env` (여기서 r_env는 새로 만들어지는 conda 환경의 이름입니다.)
 3. (선택 사항) 만약 원하는 파이썬 버전(예를 들면 3.10.0)이 있을 경우 `conda create -n r_env python=3.10`의 형태로 실행 합니다.
 4. 다음의 명령으로 새로만든 conda 환경을 활성화 합니다. `conda activate r_env`. (그러면 Command prompt 앞에 `(base)`가 `(r_env)`로 변경 됩니다.)
