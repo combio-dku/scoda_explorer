@@ -25,4 +25,4 @@ Anaconda Navigator에서도 좌측 메뉴에서 Environment를 선택하여 R을
 4. 다음의 명령으로 새로만든 conda 환경을 활성화 합니다. `conda activate r_env`. (그러면 Command prompt 앞에 `(base)`가 `(r_env)`로 변경 됩니다.)
 6. 다음의 명령으로 주피터 노트북을 설치 합니다. `conda install notebook`
 8. R 설치와 함께 주피터 노트북에서 R을 사용하려면 다음의 명령을 실행합니다. `conda install -c conda-forge r-essentials`. (그러면 최신의 R버전이 설치되는데 만약 다른 버전의 R을 사용하고 싶다면 뒤에 r-base='버전'을 붙여서 실행하면 됩니다. 예를 들어 R4.1.0을 사용하고 싶다면 `conda install -c conda-forge r-essentials r-base=4.1.0`을 실행하면 됩니다.)
-9. 이제 Command prompt에서 `jupyter notebook` 명령을 실행하면 브라우저에서 주피터가 열리고 노트북 열 때 R커널을 선택하여 노트북에서 R 명령을 사용할 수 있습니다. 
+9. 이제 Command prompt에서 `jupyter notebook` 혹은 `jupyter lab` 명령을 실행하면 브라우저에서 주피터가 열리고 노트북 열 때 R커널을 선택하여 노트북에서 R 명령을 사용할 수 있습니다. 
