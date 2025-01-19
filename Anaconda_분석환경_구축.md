@@ -12,7 +12,7 @@
 - "base" conda 환경에는 기본적인 python package들이 깔려 있어 이 환경에서 python을 사용해도 무방합니다.
 
 ## Conda 환경 만들기
-- "base" 환경에는 보통 최신의 python 버전이 깔려 있는데 (호환성 문제 등으로) 특정 python 버전을 사용하고 싶다거나 R을 사용하고자 한다면 새로 conda 환경을 만들어 사용해야 합니다.
+- "base" 환경에는 보통 최신의 python 버전과 함께 웬만한 패키지들은 모두 깔려 있는데 (호환성 문제 등으로) 특정 python 버전을 사용하고 싶은 경우 새로 conda 환경을 만들어야 하고 R을 사용하고자 한다고 해도 새로 conda 환경을 만들어 사용하는 것이 좋습니다.
 - Conda 환경의 생성은 Anaconda Navigator에서도 좌측 메뉴에서 Environment를 선택하여 할 수 있지만 이보다는 터미널에서 conda command를 이용하는 것이 보다 편리합니다.
 - [여기](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)를 참고하여 conda 환경을 생성하고 필요한 패키지를 설치하여 사용하면 되는데 터미널 열기는 Windows의 경우 시작 -> Anaconda (anaconda3) -> Anaconda Prompt 를 실행하여 터미널을 열면되고 Mac OS의 경우 응용 프로그램에서 Terminal (터미널)을 실행시키면 됩니다.
 
