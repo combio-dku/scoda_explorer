@@ -7,7 +7,7 @@ TISSUE = 'Breast'
 ## If 'Not specified', the pipelie selects the best match among the tissues below.
 ## 'Generic' applies well for most of tissues, except for Brain, 'Bone', Eye, 'Embryo', 'Skeletal muscle'.
 
-REF_NORMAL_CONDITIONS = ['Normal']
+REF_NORMAL_CONDITIONS = 'Normal'
 
 ## Cell/Gene filtering params
 N_GENES_MIN = 200
