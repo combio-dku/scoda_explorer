@@ -22,13 +22,8 @@ INFERCNV_REF_CONDITION = None # ['Normal']
 ## Celltypes with its number of cells less than this number will be excluded from CCI analysis
 MIN_NUM_CELLS_FOR_CCI = 40  
 
-## Unit of CCI run. It must be either 'sample'  or 'condition'
-UNIT_OF_CCI_RUN = 'sample'  
-
-## Valid when UNIT_OF_CCI_RUN = 'sample' 
-## When UNIT_OF_CCI_RUN is 'sample', CCIs per condition will be 
-## counted only if they appears at least this percentage of 
-## samples belonging to that condition.
+## CCIs per condition will be counted only if they appears 
+## at least this percentage of samples belonging to that condition.
 CCI_MIN_OCC_FREQ_TO_COUNT = 0.5   
 
 ## P-value cutoff to filter out CCIs
