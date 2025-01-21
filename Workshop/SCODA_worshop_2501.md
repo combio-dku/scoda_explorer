@@ -57,5 +57,5 @@
 - __참고 사항:__ Optional Input 첫번째인 Optional analysis config file을 따로 입력하지 않을 경우 파이프라인이 Tissue를 자동으로 선택하는데, 이 경우 잘못된 Tissue가 선택되면 세포 유형식별이 부정확할 수 있습니다. 이 경우, Default Configuration 링크를 클릭하여 analysis_config.py 파일을 다운 받고 TISSUE 변수를 'Breast'로 변경한 후 이를 데이터 파일 업로드시 Optional analysis config file 입력창에 넣어 같이 업로드 하면 보다 정확한 결과를 얻을 수 있습니다.  
 
 ## 참고 논문 (SCODA 활용 사례)
-1. SCODA를 이용한 자가면역질환(만성 대장염) 연구: [Integrative analysis of single-cell RNA-seq and gut microbiome metabarcoding data elucidates macrophage dysfunction in mice with DSS-induced ulcerative colitis](https://www.nature.com/articles/s42003-024-06409-w).  SCODA로 분석한 데이터 다운로드: [요기 클릭](https://figshare.com/articles/dataset/SCODA_result_for_GSE264408/28235234)
+1. SCODA를 이용한 자가면역질환(궤양성 대장염) 연구: [Integrative analysis of single-cell RNA-seq and gut microbiome metabarcoding data elucidates macrophage dysfunction in mice with DSS-induced ulcerative colitis](https://www.nature.com/articles/s42003-024-06409-w).  SCODA로 분석한 데이터 다운로드: [요기 클릭](https://figshare.com/articles/dataset/SCODA_result_for_GSE264408/28235234)
 2. SCODA를 이용한 TNBC 연구: [A Retrospective View of the Triple-Negative Breast Cancer Microenvironment: Novel Markers, Interactions, and Mechanisms of Tumor-Associated Components Using Public Single-Cell RNA-Seq Datasets](https://www.mdpi.com/2072-6694/16/6/1173#)
