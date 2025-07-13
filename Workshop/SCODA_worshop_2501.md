@@ -40,6 +40,10 @@
 6. 실습용 데이터 파일의 업로드가 완료되었으면 주피터 노트북의 코드 셀을 하나씩 실행하여 실습을 진행한다. (이때 Step 0의 패키지 설치도 수행해야 한다.)
 
 - __참고 사항:__ 위의 주피터 노트북과 실습용 데이터 파일은 [KEGG_Pathview_Gen_for_SCODA 페이지](https://github.com/combio-dku/KEGGPathviewGen4SCODA)에서 볼수 있습니다.
+
+<div align="center">
+  <img src="https://github.com/combio-dku/KEGGPathviewGen4SCODA/blob/main/images/KEGG_pathview_UC_mac.png" style="width:70%;"/>
+</div>
     
 ## SCODA pipeline 사용해보기
 
