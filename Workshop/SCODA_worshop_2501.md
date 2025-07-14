@@ -18,26 +18,17 @@
 
 ## 실습 준비
 
-1. Google Chrome을 열고 본인의 구글 계정으로 로그인한 후 Google drive에 접속한다.
-2. (미리 SCODA로 처리한) [실습 데이터](https://drive.google.com/file/d/1OUWkbAcKE9nfA9YIapY346L-wkJq31zL/view?usp=drive_link)를 다운받는다.
-3. 다운받은 실습용 데이터 파일(.tar.gz)을 Google drive의 적당한 폴더에 drag & drop하여 저장한다.
-4. [요기](https://colab.research.google.com/drive/1f3PH8CqKp9tDZyRF5dG_GZS_o0DEjEmE)를 클릭하여 실습용 주피터 노트북을 구글 Colab에서 연다.  <a href="https://colab.research.google.com/drive/1f3PH8CqKp9tDZyRF5dG_GZS_o0DEjEmE" target="_blank">Open in Colab</a>
-
-5. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다.
-6. 좌측 맨아래 `파일` 아이콘을 눌러 파일 뷰어를 연다.
-7. 다운받은 데이터 파일을 파일뷰어 영역에 drag & drop 하여 실습용 데이터 파일을 Colab 서버에 업로드한다.
-8. 실습용 데이터 파일의 업로드가 완료되었으면 주피터 노트북의 설명에 따라 코드 셀을 하나씩 실행하여 실습을 진행한다.
+1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/drive/1f3PH8CqKp9tDZyRF5dG_GZS_o0DEjEmE)하여 실습용 주피터 노트북을 구글 Colab에서 연다.  
+2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
+3. 열린 주피터 노트북에서 3번부터 코드셀을 하나씩 실행하여 실습을 진행한다. (4번 단계에서 4B를 사용)
 
 - __참고 사항:__ 5에서 실습용 주피터노트북 파일을 더블클릭했는데 바로 Google Colab으로 연결되지 않을 경우, 자동 앱연결이 활성화되지 않은 것이므로 실습용 주피터파일을 마우스로 클릭한 후 오른쪽 버튼 클릭 -> 연결앱 클릭 -> 열리는 창에서 'Google Colab'을 검색하여 연결앱으로 설정하면 됩니다.
 
 ## 추가 실습: SCODA결과로부터 KEGG pathview 생성하여 확인하기
 
-1. (미리 SCODA로 처리한) [실습용 데이터 파일](https://github.com/combio-dku/KEGGPathviewGen4SCODA/blob/main/data/example_human_brca_12k_results.h5ad.tar.gz)을 다운받는다. (위의 실습용 데이터와 다른 파일임. 우측 상단의 다운로드 버튼을 클릭.) ![image](https://github.com/user-attachments/assets/6292d5ef-40c1-4dcf-a34a-e7375ad41941)
-2. [여기](https://colab.research.google.com/github/combio-dku/KEGGPathviewGen4SCODA/blob/main/example_kegg_pathview_gen_for_scoda.ipynb)를 클릭하여 실습용 주피터 노트북 파일을 Google Colab에서 연후 본인 계정의 Google drive에 저장한다 (파일 메뉴 -> Drive에 사본저장). (위의 실습용 주피터 노트북과 다른 R용 노트북임.)
-6. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (Google 계정 로그인 필요)
-4. 좌측 맨아래 `파일` 아이콘을 눌러 파일 뷰어를 연다.
-5. 다운받은 데이터 파일을 파일뷰어 영역에 drag & drop 하여 실습용 데이터 파일을 Colab 서버에 업로드한다.
-6. 실습용 데이터 파일의 업로드가 완료되었으면 주피터 노트북의 코드 셀을 하나씩 실행하여 실습을 진행한다. (이때 Step 0의 패키지 설치도 수행해야 한다.)
+1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/drive/1LzlNuFS_9-ZcqVVDsmFHEUxOZ8q86X3i)하여 실습용 주피터 노트북을 구글 Colab에서 연다. (앞서 사용한 것과는 다른 R을 사용하는 주피터 노트북 임.) 
+2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
+3. 열린 주피터 노트북에서 3번부터 코드셀을 하나씩 실행하여 실습을 진행한다. (이때 Step 0의 패키지 설치도 수행해야 하는데 설치 시간이 10~15분 정도 소요됨.)
 
 - __참고 사항:__ 위의 주피터 노트북과 실습용 데이터 파일은 [KEGG_Pathview_Gen_for_SCODA 페이지](https://github.com/combio-dku/KEGGPathviewGen4SCODA)에서 볼수 있습니다.
 
