@@ -20,13 +20,12 @@
 
 1. Google Chrome을 열고 본인의 구글 계정으로 로그인한 후 Google drive에 접속한다.
 2. (미리 SCODA로 처리한) [실습 데이터](https://drive.google.com/file/d/1OUWkbAcKE9nfA9YIapY346L-wkJq31zL/view?usp=drive_link)를 다운받는다.
-3. [실습용 주피터 노트북](https://drive.google.com/file/d/1f3PH8CqKp9tDZyRF5dG_GZS_o0DEjEmE/view?usp=drive_link)을 다운받는다.
-4. 다운받은 실습용 데이터 파일(.tar.gz)과 실습용 주피터노트북 파일(.ipynb)을 Google drive의 적당한 폴더에 drag & drop하여 저장한다.
-5. Google drive에서, 업로드한 실습용 주피터노트북 파일을 더블클릭하면 Google Colab에서 자동으로 열린다.
-6. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다.
-7. 좌측 맨아래 `파일` 아이콘을 눌러 파일 뷰어를 연다.
-8. 다운받은 데이터 파일을 파일뷰어 영역에 drag & drop 하여 실습용 데이터 파일을 Colab 서버에 업로드한다.
-9. 실습용 데이터 파일의 업로드가 완료되었으면 주피터 노트북의 설명에 따라 코드 셀을 하나씩 실행하여 실습을 진행한다.
+3. 다운받은 실습용 데이터 파일(.tar.gz)을 Google drive의 적당한 폴더에 drag & drop하여 저장한다.
+4. [요기](https://colab.research.google.com/drive/1f3PH8CqKp9tDZyRF5dG_GZS_o0DEjEmE)를 클릭하여 실습용 주피터 노트북을 구글 Colab에서 연다.  
+5. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다.
+6. 좌측 맨아래 `파일` 아이콘을 눌러 파일 뷰어를 연다.
+7. 다운받은 데이터 파일을 파일뷰어 영역에 drag & drop 하여 실습용 데이터 파일을 Colab 서버에 업로드한다.
+8. 실습용 데이터 파일의 업로드가 완료되었으면 주피터 노트북의 설명에 따라 코드 셀을 하나씩 실행하여 실습을 진행한다.
 
 - __참고 사항:__ 5에서 실습용 주피터노트북 파일을 더블클릭했는데 바로 Google Colab으로 연결되지 않을 경우, 자동 앱연결이 활성화되지 않은 것이므로 실습용 주피터파일을 마우스로 클릭한 후 오른쪽 버튼 클릭 -> 연결앱 클릭 -> 열리는 창에서 'Google Colab'을 검색하여 연결앱으로 설정하면 됩니다.
 
