@@ -39,7 +39,7 @@
 ## SCODA pipeline 사용해보기
 
 1. [사용할 데이터](https://drive.google.com/file/d/1DF_dGMSOi54eVc5_2DVxsWv71feFvgcb/view?usp=sharing)를 다운 받는다. 
-2. [SCODA 데모 서버 홈페이지](https://mlbi-lab.net)에 접속한다. 
+2. [SCODA 데모 페이지](https://mlbi-lab.net)에 접속한다. 
 3. Mandatory Input 부분에서 ....
    1. 라디오버튼 중 `Compressed 10x_mtx file sets + (optional) meta_data.csv`를 선택한다.
    2. `파일선택` 버튼을 누르고 다운 받은 파일을 선택한다.
