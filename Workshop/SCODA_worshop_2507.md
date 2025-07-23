@@ -23,7 +23,12 @@
 2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
 3. 열린 주피터 노트북에서 3번부터 코드셀을 하나씩 실행하여 실습을 진행한다. __(4번 단계에서는 4B를 사용할 것)__
 
-## 추가 실습: SCODA결과로부터 KEGG pathview 생성하여 확인하기
+## 실습 II & III: SCODA를 이용한 연구사례
+
+1. 실습 II: (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250721_2_BC.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습 진행.  
+2. 실습 III: (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250721_3_Colitis.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습 진행.
+
+## 실습 IV: SCODA결과로부터 KEGG pathview 생성하여 확인하기
 
 1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/drive/1LzlNuFS_9-ZcqVVDsmFHEUxOZ8q86X3i)하여 실습용 주피터 노트북을 구글 Colab에서 연다. __(앞서 사용한 것과는 다른, R을 사용하는 주피터 노트북 임.)__ 
 2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
