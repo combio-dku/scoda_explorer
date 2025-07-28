@@ -10,9 +10,10 @@
 
 ## 워크샵 진행 순서
 1. &nbsp;&nbsp; SCODA를 이용한 단일세포 RNA-seq 분석 개요
-3. &nbsp;&nbsp; AnnData 포맷 소개, SCANPY를 이용한 전처리, 세포유형식별 실습
-5. &nbsp;&nbsp; CNV와 Ploidy 추정, 세포간 상호작용 분석
-7. &nbsp;&nbsp; DEG 분석, 마커탐색, Gene Set Enrichment 분석
+2. &nbsp;&nbsp; AnnData 포맷 소개, SCANPY 활용법 실습
+3. &nbsp;&nbsp; SCODA를 이용한 연구사례 실습 I (유방암 데이터)
+4. &nbsp;&nbsp; SCODA를 이용한 연구사례 실습 II (궤양성 대장염 데이터)
+5. &nbsp;&nbsp; KEGG Pathview 생성 및 pathway 변화 시각화 및 분석 실습 
 
 ## SCODA 간략 소개
 - 워크샵 당일날 간략하게 SCODA에 대한 소개를 드리겠지만 사전에 시간이 되신 다면 [BRIC 기업기술 웨비나: SCODA 소개](https://youtu.be/ajRnK3QeCWA?si=XGiIjtE07IMfZjdz)를 미리 보시고 오시면 더 좋습니다. [(SCODA 소개 발표자료)](https://github.com/combio-dku/scoda_explorer/blob/main/SCODA_%EC%86%8C%EA%B0%9C_BRIC_%EA%B8%B0%EC%97%85%EA%B8%B0%EC%88%A0%EC%9B%A8%EB%B9%84%EB%82%98_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
