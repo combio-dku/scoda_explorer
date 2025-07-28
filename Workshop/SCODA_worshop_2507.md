@@ -19,18 +19,18 @@
 
 ## 실습 I: AnnData Format과 SCANPY 활용
 
-1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250726_1_basic.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 연다.  
+1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250727_1_basic.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 연다.  
 2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
 3. 열린 주피터 노트북에서 3번부터 코드셀을 하나씩 실행하여 실습을 진행한다. __(4번 단계에서는 4B를 사용할 것)__
 
 ## 실습 II & III: SCODA를 이용한 연구사례
 
-1. __실습 II:__ (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250726_2_BC.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습 진행. (using breast Cancer dataset) 
-2. __실습 III:__ (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250726_3_Colitis.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습 진행. (using colitis dataset)
+1. __실습 II:__ (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250727_2_BC.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습 진행. (using breast Cancer dataset) 
+2. __실습 III:__ (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250727_3_Colitis.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습 진행. (using colitis dataset)
 
 ## 실습 IV: SCODA결과로부터 KEGG pathview 생성하여 확인하기
 
-1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250726_4_R_kegg_pathview.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 연다. __(앞서 사용한 것과는 다른, R을 사용하는 주피터 노트북 임.)__ 
+1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250727_4_R_kegg_pathview.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 연다. __(앞서 사용한 것과는 다른, R을 사용하는 주피터 노트북 임.)__ 
 2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
 3. 열린 주피터 노트북에서 코드셀을 하나씩 실행하여 실습을 진행한다. (이때 Step 0의 패키지 설치도 수행해야 하는데 설치 시간이 10~15분 정도 소요됨.)
 
