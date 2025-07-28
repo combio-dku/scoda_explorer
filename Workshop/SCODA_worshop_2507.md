@@ -25,8 +25,8 @@
 
 ## 실습 II & III: SCODA를 이용한 연구사례
 
-1. __실습 II:__ (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250727_2_BC.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습 진행. (using breast Cancer dataset) 
-2. __실습 III:__ (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250727_3_Colitis.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습 진행. (using colitis dataset)
+1. __실습 II:__ (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250727_2_BC.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습 진행. (breast Cancer dataset) 
+2. __실습 III:__ (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250727_3_Colitis.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습 진행. (colitis dataset)
 
 ## 실습 IV: SCODA결과로부터 KEGG pathview 생성하여 확인하기
 
