@@ -37,7 +37,7 @@
 - __참고 사이트:__  [KEGG_Pathview_Gen_for_SCODA](https://github.com/combio-dku/KEGGPathviewGen4SCODA) 
 
 <div align="center">
-  <img src="https://github.com/combio-dku/KEGGPathviewGen4SCODA/blob/main/images/KEGG_pathview_UC_mac.png" style="width:80%;"/>
+  <img src="https://github.com/combio-dku/KEGGPathviewGen4SCODA/blob/main/images/KEGG_pathview_UC_mac.png" style="width:60%;"/>
 </div>
     
 ## SCODA pipeline 사용해보기
