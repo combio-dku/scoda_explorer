@@ -10,7 +10,7 @@
 
 ## 워크샵 진행 순서
 1. &nbsp;&nbsp; SCODA를 이용한 단일세포 RNA-seq 분석 개요
-2. &nbsp;&nbsp; AnnData 포맷 소개, SCANPY 활용법 실습
+2. &nbsp;&nbsp; AnnData 포맷 소개 및 SCANPY 활용법 실습
 3. &nbsp;&nbsp; SCODA를 이용한 연구사례 실습 I (유방암 데이터)
 4. &nbsp;&nbsp; SCODA를 이용한 연구사례 실습 II (궤양성 대장염 데이터)
 5. &nbsp;&nbsp; KEGG Pathview 생성 및 pathway 변화 시각화 및 분석 실습 
