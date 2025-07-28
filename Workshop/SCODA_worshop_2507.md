@@ -54,7 +54,7 @@
    4. `Submit` 버튼을 눌러 SCODA가 업로드한 데이터를 처리하도록 한다.
    5. 그러면 Progress 창이 뜨고 SCODA 실행 내역이 나타난다. (처리 완료까지 5~10분 소요)
    6. SCODA의 처리가 완료되어 아래 쪽에 `Download Result` 버튼이 나오면 이를 클릭하여 SCODA 결과 파일을 다운 받는다. 
-   7. 다운 받은 SCODA 결과 파일을 제공된 주피터 노트북에서 열어 데이터 마이닝을 수행한다.
+   7. 다운 받은 SCODA 결과 파일을 제공된 주피터 노트북에서 열어 위 실습내용을 응용하여 데이터 마이닝을 수행한다.
   
 - __참고 사항:__ Optional Input 첫번째인 Optional analysis config file을 따로 입력하지 않을 경우 파이프라인이 Tissue를 자동으로 선택하는데, 이 경우 잘못된 Tissue가 선택되면 세포 유형식별이 부정확할 수 있습니다. 이 경우, Default Configuration 링크를 클릭하여 analysis_config.py 파일을 다운 받고 TISSUE 변수를 'Breast'로 변경한 후 이를 데이터 파일 업로드시 Optional analysis config file 입력창에 넣어 같이 업로드 하면 보다 정확한 결과를 얻을 수 있습니다.  
 
