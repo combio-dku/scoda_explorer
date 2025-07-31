@@ -27,7 +27,7 @@
 ## Introduction to SCODA
 - A brief introduction to SCODA will be provided during the workshop.  
 - If you have time beforehand, watching the [BRIC Corporate Technology Webinar: SCODA Introduction](https://youtu.be/ajRnK3QeCWA?si=XGiIjtE07IMfZjdz) is recommended. (in Korean)  
-- You can also review the [SCODA presentation slides](https://github.com/combio-dku/scoda_explorer/blob/main/SCODA_%EC%86%8C%EA%B0%9C_BRIC_%EA%B8%B0%EC%97%85%EA%B8%B0%EC%88%A0%EC%9B%A8%EB%B9%84%EB%82%98_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf).
+- You can also review the [SCODA presentation slides](https://github.com/combio-dku/scoda_explorer/blob/main/SCODA_pipeline_description.pdf).
 
 ---
 
