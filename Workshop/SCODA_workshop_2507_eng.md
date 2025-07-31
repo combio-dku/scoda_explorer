@@ -4,7 +4,7 @@
 ## Preparation
 - **Personal Device:** &nbsp;&nbsp; A laptop with Wi-Fi and a web browser (Tablet PCs are technically possible but not recommended).  
 - **Programming Language:** &nbsp;&nbsp; Python3 (No local installation required; we will use Google Colab).  
-- **Presentation Materials:** &nbsp;&nbsp; Distributed via email in advance.  
+- **Presentation Materials:** &nbsp;&nbsp; To be distributed via email in advance.  
 - **Prerequisite Knowledge:**  
   - Participants should be in the life science/medical field and have a basic understanding of where and how single-cell RNA-seq is applied.  
   - Experience with Python or R is preferred.  
