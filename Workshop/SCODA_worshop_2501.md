@@ -26,7 +26,7 @@
 
 ## 추가 실습: SCODA결과로부터 KEGG pathview 생성하여 확인하기
 
-1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/drive/1LzlNuFS_9-ZcqVVDsmFHEUxOZ8q86X3i)하여 실습용 주피터 노트북을 구글 Colab에서 연다. __(앞서 사용한 것과는 다른, R을 사용하는 주피터 노트북 임.)__ 
+1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250727_4_R_kegg_pathview.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 연다. __(요건 R을 사용하는 주피터 노트북입니다.)__ 
 2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
 3. 열린 주피터 노트북에서 코드셀을 하나씩 실행하여 실습을 진행한다. (이때 Step 0의 패키지 설치도 수행해야 하는데 설치 시간이 10~15분 정도 소요됨.)
 
