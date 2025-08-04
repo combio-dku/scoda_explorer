@@ -17,11 +17,12 @@
 ## SCODA 간략 소개
 - 워크샵 당일날 간략하게 SCODA에 대한 소개를 드리겠지만 사전에 시간이 되신 다면 [BRIC 기업기술 웨비나: SCODA 소개](https://youtu.be/ajRnK3QeCWA?si=XGiIjtE07IMfZjdz)를 미리 보시고 오시면 더 좋습니다. [(SCODA 소개 발표자료)](https://github.com/combio-dku/scoda_explorer/blob/main/SCODA_%EC%86%8C%EA%B0%9C_BRIC_%EA%B8%B0%EC%97%85%EA%B8%B0%EC%88%A0%EC%9B%A8%EB%B9%84%EB%82%98_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
-## 실습 준비 (실습용 jupyter notebook이 업데이트되어 사용할 데이터는 jupyter notebook 실행시 자동으로 다운로드 됩니다.)
+## 실습 준비 
 
 1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/drive/1f3PH8CqKp9tDZyRF5dG_GZS_o0DEjEmE)하여 실습용 주피터 노트북을 구글 Colab에서 연다.  
 2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
 3. 열린 주피터 노트북에서 __3번부터__ 코드셀을 하나씩 실행하여 실습을 진행한다. __(4번 단계에서는 4A를 사용할 것)__
+- 실습용 jupyter notebook이 업데이트되어 사용할 데이터는 jupyter notebook 실행시 자동으로 다운로드 됩니다.
 
 ## 추가 실습: SCODA결과로부터 KEGG pathview 생성하여 확인하기
 
