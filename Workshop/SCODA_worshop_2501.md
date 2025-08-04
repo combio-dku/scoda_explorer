@@ -22,7 +22,7 @@
 1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/drive/1f3PH8CqKp9tDZyRF5dG_GZS_o0DEjEmE)하여 실습용 주피터 노트북을 구글 Colab에서 연다.  
 2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
 3. 열린 주피터 노트북에서 __3번부터__ 코드셀을 하나씩 실행하여 실습을 진행한다. __(4번 단계에서는 4A를 사용할 것)__
-- 실습용 jupyter notebook이 업데이트되어 사용할 데이터는 jupyter notebook 실행시 자동으로 다운로드 됩니다.
+- 실습용 jupyter notebook이 업데이트되어 사용할 데이터는 jupyter notebook 실행시 (__4A__ 단계에서) 자동으로 다운로드 됩니다.
 
 ## 추가 실습: SCODA결과로부터 KEGG pathview 생성하여 확인하기
 
