@@ -1,4 +1,5 @@
 # SCODA로 분석하는 단일세포 RNA-seq 데이터
+__Updated July 31, 2025__
 ## 사전 준비
 - __개인 준비:__ &nbsp;&nbsp; 무선랜과 웹브라우저가 설치된 Laptop &nbsp; (Tablet도 가능은 한데 추천하지는 않습니다.)
 - __사용 언어:__ &nbsp;&nbsp; python3 &nbsp; (Google Colab을 사용할 예정이라 뭔가 따로 설치할 필요는 없습니다.)
@@ -17,15 +18,16 @@
 ## SCODA 간략 소개
 - 워크샵 당일날 간략하게 SCODA에 대한 소개를 드리겠지만 사전에 시간이 되신 다면 [BRIC 기업기술 웨비나: SCODA 소개](https://youtu.be/ajRnK3QeCWA?si=XGiIjtE07IMfZjdz)를 미리 보시고 오시면 더 좋습니다. [(SCODA 소개 발표자료)](https://github.com/combio-dku/scoda_explorer/blob/main/SCODA_%EC%86%8C%EA%B0%9C_BRIC_%EA%B8%B0%EC%97%85%EA%B8%B0%EC%88%A0%EC%9B%A8%EB%B9%84%EB%82%98_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
-## 실습 준비
+## 실습 준비 
 
-1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/drive/1f3PH8CqKp9tDZyRF5dG_GZS_o0DEjEmE)하여 실습용 주피터 노트북을 구글 Colab에서 연다.  
+1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250727_2_BC.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습을 진행한다.  
 2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
-3. 열린 주피터 노트북에서 3번부터 코드셀을 하나씩 실행하여 실습을 진행한다. __(4번 단계에서는 4B를 사용할 것)__
+3. 열린 주피터 노트북에서 코드셀을 하나씩 실행하여 실습을 진행한다. __(2번 단계에서는 2A를 사용하여 실습용 데이터를 다운받으시면 됩니다.)__
+- 실습용 jupyter notebook이 업데이트되어 강의동영상에서 보시는 것과 일부 다를 수 있습니다.
 
 ## 추가 실습: SCODA결과로부터 KEGG pathview 생성하여 확인하기
 
-1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/drive/1LzlNuFS_9-ZcqVVDsmFHEUxOZ8q86X3i)하여 실습용 주피터 노트북을 구글 Colab에서 연다. __(앞서 사용한 것과는 다른, R을 사용하는 주피터 노트북 임.)__ 
+1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250727_4_R_kegg_pathview.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 연다. __(요건 R을 사용하는 주피터 노트북입니다.)__ 
 2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
 3. 열린 주피터 노트북에서 코드셀을 하나씩 실행하여 실습을 진행한다. (이때 Step 0의 패키지 설치도 수행해야 하는데 설치 시간이 10~15분 정도 소요됨.)
 
