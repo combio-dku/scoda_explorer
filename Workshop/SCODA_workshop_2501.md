@@ -20,16 +20,19 @@ __Updated July 31, 2025__
 
 ## 실습 준비 
 
-1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250727_2_BC.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습을 진행한다.  
-2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
-3. 열린 주피터 노트북에서 코드셀을 하나씩 실행하여 실습을 진행한다. __(2번 단계에서는 2A를 사용하여 실습용 데이터를 다운받으시면 됩니다.)__
-- 실습용 jupyter notebook이 업데이트되어 강의동영상에서 보시는 것과 일부 다를 수 있습니다.
+1. Google Chrome을 열고 본인의 구글 계정으로 로그인한 후 Google drive에 접속한다.
+2. (미리 SCODA로 처리한) [실습 데이터](https://drive.google.com/file/d/1XbX8Q3dH1kOWnM6ppms4BR2ukEAKYisB/view?usp=sharing)를 다운받아 본인의 구글 드라이브의 적당한 폴더에 업로드한다. (💡 __이제는 Jupyter notebook에서 바로 실습용 데이터를 다운받을 수 있어서 요부분은 skip허고 주피터 노트북 3번 단계부터 시작해도 됩니다.__)
+3. [실습용 주파터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250721.ipynb)을 (Ctrl +) 클릭하여 구글 Colab에서 연다. (Colab의 파일 메뉴 -> "드라이브에 사본저장"으로 구글 드라이브에 저장할 수 있음.)
+4. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결하고 runtime 세션을 개시한다. (필요시, 구글계정으로 로그인한다.)
+5. 열린 주피터 노트북에서 코드셀을 하나씩 실행하여 실습을 진행한다. __(주피터 노트북내 3번 단계부터 시작하되 4번 단계에서는 4B를 사용하여 실습용 데이터를 다운받으시면 됩니다.)__
+- 💡 실습용 jupyter notebook이 업데이트되어 강의동영상에서 보시는 것과 일부 다를 수 있습니다.
 
 ## 추가 실습: SCODA결과로부터 KEGG pathview 생성하여 확인하기
 
-1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250727_4_R_kegg_pathview.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 연다. __(요건 R을 사용하는 주피터 노트북입니다.)__ 
-2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
-3. 열린 주피터 노트북에서 코드셀을 하나씩 실행하여 실습을 진행한다. (이때 Step 0의 패키지 설치도 수행해야 하는데 설치 시간이 10~15분 정도 소요됨.)
+1. [실습용 주피터 노트북2](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250727_4_R_kegg_pathview.ipynb)를 (Ctrl +) 클릭하여 구글 Colab에서 연다. __(요건 R을 사용하는 주피터 노트북입니다.)__
+2. 데이터는 이전 실습에서 사용한 [실습 데이터](https://drive.google.com/file/d/1XbX8Q3dH1kOWnM6ppms4BR2ukEAKYisB/view?usp=sharing)를 그대로 사용하는데 Jupyter notebook에서 바로 실습용 데이터를 다운받을 수 있어서 따로 데이터 준비를 위해 하실 것은 없습니다.
+3. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결하고 runtime 세션을 개시한다. (필요시, 구글계정으로 로그인한다.)
+4. 열린 주피터 노트북에서 코드셀을 하나씩 실행하여 실습을 진행한다. (이때 Step 0의 패키지 설치도 수행해야 하는데 설치 시간이 10~15분 정도 소요됩니다.)
 
 - __참고 사이트:__  [KEGG_Pathview_Gen_for_SCODA](https://github.com/combio-dku/KEGGPathviewGen4SCODA) 
 
@@ -53,5 +56,5 @@ __Updated July 31, 2025__
 - __참고 사항:__ Optional Input 첫번째인 Optional analysis config file을 따로 입력하지 않을 경우 파이프라인이 Tissue를 자동으로 선택하는데, 이 경우 잘못된 Tissue가 선택되면 세포 유형식별이 부정확할 수 있습니다. 이 경우, Default Configuration 링크를 클릭하여 analysis_config.py 파일을 다운 받고 TISSUE 변수를 'Breast'로 변경한 후 이를 데이터 파일 업로드시 Optional analysis config file 입력창에 넣어 같이 업로드 하면 보다 정확한 결과를 얻을 수 있습니다.  
 
 ## 참고 논문 (SCODA 활용 사례)
-1. SCODA를 이용한 자가면역질환(궤양성 대장염) 연구: [Integrative analysis of single-cell RNA-seq and gut microbiome metabarcoding data elucidates macrophage dysfunction in mice with DSS-induced ulcerative colitis](https://www.nature.com/articles/s42003-024-06409-w).  SCODA로 분석한 데이터 다운로드: [요기 클릭](https://figshare.com/articles/dataset/SCODA_result_for_GSE264408/28235234)
+1. SCODA를 이용한 자가면역질환(궤양성 대장염) 연구: [Integrative analysis of single-cell RNA-seq and gut microbiome metabarcoding data elucidates macrophage dysfunction in mice with DSS-induced ulcerative colitis](https://www.nature.com/articles/s42003-024-06409-w).  
 2. SCODA를 이용한 TNBC 연구: [A Retrospective View of the Triple-Negative Breast Cancer Microenvironment: Novel Markers, Interactions, and Mechanisms of Tumor-Associated Components Using Public Single-Cell RNA-Seq Datasets](https://www.mdpi.com/2072-6694/16/6/1173#)
