@@ -20,9 +20,11 @@ __Updated July 31, 2025__
 
 ## 실습 준비 
 
-1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250727_2_BC.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습을 진행한다.  
-2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
-3. 열린 주피터 노트북에서 코드셀을 하나씩 실행하여 실습을 진행한다. __(2번 단계에서는 2A를 사용하여 실습용 데이터를 다운받으시면 됩니다.)__
+1. Google Chrome을 열고 본인의 구글 계정으로 로그인한 후 Google drive에 접속한다.
+2. (미리 SCODA로 처리한) [실습데이터](https://drive.google.com/file/d/1XbX8Q3dH1kOWnM6ppms4BR2ukEAKYisB/view?usp=sharing)를 다운받는다. <span style="color:blue">(이제는 Jupyter notebook에서 바로 다운받을 수 있어서 요부분은 skip해도 됩니다.)</span>
+3. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250727_2_BC.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습을 진행한다.  
+4. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
+5. 열린 주피터 노트북에서 코드셀을 하나씩 실행하여 실습을 진행한다. __(2번 단계에서는 2A를 사용하여 실습용 데이터를 다운받으시면 됩니다.)__
 - 실습용 jupyter notebook이 업데이트되어 강의동영상에서 보시는 것과 일부 다를 수 있습니다.
 
 ## 추가 실습: SCODA결과로부터 KEGG pathview 생성하여 확인하기
