@@ -1,5 +1,5 @@
 ## KSBi-BIML online workshop
-# Single-cell RNA-seq data analysis for marker/drug target discovery
+# Single-cell RNA-seq data analysis for marker/drug target discovery (Practice materials)
 __Updated July 31, 2025__
 
 ## 사전 준비
