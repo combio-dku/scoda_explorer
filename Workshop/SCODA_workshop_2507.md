@@ -23,18 +23,18 @@
 
 ## 실습 I: AnnData Format 소개 및 SCANPY 활용
 
-1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250810_1_basic.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 연다.  
+1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_LAIDD_1_250810.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 연다.  
 2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
 3. 열린 주피터 노트북에서 코드셀을 하나씩 실행하여 실습을 진행한다. 
 
 ## 실습 II & III: SCODA를 이용한 연구사례 (유방암 및 궤양성 대장염)
 
-1. __실습 II:__ (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250810_2_BC.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습을 진행한다. (breast Cancer dataset) 
-2. __실습 III:__ (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250810_3_Colitis.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습을 진행한다. (colitis dataset)
+1. __실습 II:__ (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_LAIDD_2_250810.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습을 진행한다. (breast Cancer dataset) 
+2. __실습 III:__ (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_LAIDD_3_250810.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습을 진행한다. (colitis dataset)
 
 ## 실습 IV: KEGG Pathview 생성 및 pathway 변화 시각화 및 분석 실습
 
-1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250810_4_R_kegg_pathview.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 연다. __(요건 R을 사용하는 주피터 노트북입니다.)__ 
+1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_LAIDD_4_250810.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 연다. __(요건 R을 사용하는 주피터 노트북입니다.)__ 
 2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
 3. 열린 주피터 노트북에서 코드셀을 하나씩 실행하여 실습을 진행한다. (이때 Step 0의 패키지 설치도 수행해야 하는데 설치 시간이 10~15분 정도 소요됨.)
 
