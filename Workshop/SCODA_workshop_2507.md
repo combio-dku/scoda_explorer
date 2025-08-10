@@ -12,8 +12,8 @@
   - __추천 워크샵:__ 한국유전체학회 통계유전학 워크샵(매년 7월), 한국생명정보학회 BIML 워크샵 (매년 2월, 8월)
 
 ## 워크샵 진행 순서
-1. &nbsp;&nbsp; SCODA를 이용한 단일세포 RNA-seq 분석 개요
-2. &nbsp;&nbsp; 실습I: AnnData 포맷 소개 및 SCANPY 활용법 실습
+1. &nbsp;&nbsp; 실습I: AnnData 포맷 소개 및 SCANPY 활용법 실습
+2. &nbsp;&nbsp; SCODA를 이용한 단일세포 RNA-seq 분석 개요
 3. &nbsp;&nbsp; 실습II: SCODA를 이용한 연구사례 I (유방암 데이터)
 4. &nbsp;&nbsp; 실습III: SCODA를 이용한 연구사례 II (궤양성 대장염 데이터)
 5. &nbsp;&nbsp; 실습IV: KEGG Pathview 생성 및 pathway 변화 시각화 및 분석 실습 
