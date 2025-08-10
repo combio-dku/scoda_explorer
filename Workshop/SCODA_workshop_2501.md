@@ -1,4 +1,4 @@
-# SCODA로 분석하는 단일세포 RNA-seq 데이터
+# KSBi-BIML online workshop: Single-cell RNA-seq data analysis for marker/drug target discovery
 __Updated July 31, 2025__
 ## 사전 준비
 - __개인 준비:__ &nbsp;&nbsp; 무선랜과 웹브라우저가 설치된 Laptop &nbsp; (Tablet도 가능은 한데 추천하지는 않습니다.)
