@@ -1,5 +1,6 @@
-# SCODA 실습 Workshop 
-## 단일세포 RNA-seq 데이터기반의 마커/치료표적 발굴
+# 단일세포 RNA-seq 데이터기반의 마커/치료표적 발굴 (실습 자료)
+## (LAIDD online course)
+
 ## 사전 준비
 - __개인 준비:__ &nbsp;&nbsp; 무선랜과 웹브라우저가 설치된 Laptop &nbsp; (Tablet도 가능은 한데 추천하지는 않습니다.)
 - __사용 언어:__ &nbsp;&nbsp; python3 &nbsp; (Google Colab을 사용할 예정이라 뭔가 따로 설치할 필요는 없습니다.)
