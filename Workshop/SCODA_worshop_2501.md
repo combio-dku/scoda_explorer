@@ -23,7 +23,7 @@ __Updated July 31, 2025__
 ## 실습 준비 
 
 1. Google Chrome을 열고 본인의 구글 계정으로 로그인한 후 Google drive에 접속한다.
-2. (미리 SCODA로 처리한) [실습 데이터](https://drive.google.com/file/d/1XbX8Q3dH1kOWnM6ppms4BR2ukEAKYisB/view?usp=sharing)를 클릭하여 다운받아 본인의 구글 드라이브의 적당한 폴더에 업로드한다. (💡 __이제는 Jupyter notebook에서 바로 실습용 데이터를 다운받을 수 있어서 요부분은 skip하고 주피터 노트북내 3번 단계부터 시작해도 됩니다.__)
+2. (미리 SCODA로 처리한) [실습 데이터](https://drive.google.com/file/d/1XbX8Q3dH1kOWnM6ppms4BR2ukEAKYisB/view?usp=sharing)를 클릭하여 다운받아 본인의 구글 드라이브의 적당한 폴더에 업로드한다. (💡 __지금은 실습용 Jupyter notebook이 갱신되어 Jupyter notebook에서 바로 실습용 데이터를 다운받을 수 있기 때문에 요부분은 skip하고 주피터 노트북내 3번 단계부터 시작해도 됩니다.__)
 3. [실습용 주파터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250810.ipynb)을 (Ctrl +) 클릭하여 구글 Colab에서 연다. (Colab의 파일 메뉴 -> "드라이브에 사본저장"으로 구글 드라이브에 사본을 저장할 수 있습니다.)
 4. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결하고 runtime 세션을 개시한다. (필요시, 구글계정으로 로그인한다.)
 5. 열린 주피터 노트북에서 코드셀을 하나씩 실행하여 실습을 진행한다. __(주피터 노트북내 3번 단계부터 시작하되 4번 단계에서는 4B를 사용하여 실습용 데이터를 다운받으시면 됩니다.)__
