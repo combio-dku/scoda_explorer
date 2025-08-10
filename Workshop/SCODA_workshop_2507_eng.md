@@ -33,7 +33,7 @@
 
 ## Practice I: AnnData Format & SCANPY Basics
 
-1. (Ctrl + Click) [Open this Jupyter notebook](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250810_1_basic.ipynb) in Google Colab.  
+1. (Ctrl + Click) [Open this Jupyter notebook](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_LAIDD_1_250810.ipynb) in Google Colab.  
 2. Click **“Connect”** in the top-right of the Colab tab to connect to the runtime (sign in with your Google account if required).  
 3. Execute the code cells step by step to complete the practice.  
 
@@ -41,14 +41,14 @@
 
 ## Practice II & III: SCODA Case Studies (Breast Cancer & Ulcerative Colitis)
 
-1. **Practice II:** (Ctrl + Click) [Open notebook](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250810_2_BC.ipynb) for the Breast Cancer dataset and follow the exercises.  
-2. **Practice III:** (Ctrl + Click) [Open notebook](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250810_3_Colitis.ipynb) for the Ulcerative Colitis dataset and follow the exercises.  
+1. **Practice II:** (Ctrl + Click) [Open notebook](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_LAIDD_2_250810.ipynb) for the Breast Cancer dataset and follow the exercises.  
+2. **Practice III:** (Ctrl + Click) [Open notebook](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_LAIDD_3_250810.ipynb) for the Ulcerative Colitis dataset and follow the exercises.  
 
 ---
 
 ## Practice IV: KEGG Pathview and Pathway Visualization
 
-1. (Ctrl + Click) [Open this Jupyter notebook](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_250810_4_R_kegg_pathview.ipynb) in Google Colab.  
+1. (Ctrl + Click) [Open this Jupyter notebook](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_LAIDD_4_250810.ipynb) in Google Colab.  
    - **Note:** This notebook uses **R** in Colab.  
 2. Connect to the Colab runtime (sign in if necessary).  
 3. Execute each code cell in order. Step 0 requires installing R packages, which takes ~10–15 minutes.  
