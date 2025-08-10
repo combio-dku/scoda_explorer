@@ -1,4 +1,4 @@
-# LAIDD online course:
+## LAIDD online course:
 # Single-Cell RNA-Seq Data Analysis for Marker and Therapeutic Target Discovery (Practice materials)
 
 ## Preparation
