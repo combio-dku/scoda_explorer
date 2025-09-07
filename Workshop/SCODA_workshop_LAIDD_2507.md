@@ -1,5 +1,6 @@
 ## LAIDD online course: 
-# 단일세포 RNA-seq 데이터기반의 치료표적 발굴 (실습 자료)
+# 단일세포 RNA-seq 데이터를 이용한 종양/조직 미세환경 분석과 치료 표적 발굴 (실습 자료)
+[교육 프로그램 페이지 가기](https://www.laidd.org/local/ubonline/view.php?id=479&group=1&returnurl=aHR0cHM6Ly93d3cubGFpZGQub3JnL2xvY2FsL3Vib25saW5lL2luZGV4LnBocA==)
 
 ## 사전 준비
 - __개인 준비:__ &nbsp;&nbsp; 무선랜과 웹브라우저가 설치된 Laptop &nbsp; (Tablet도 가능은 한데 추천하지는 않습니다.)
