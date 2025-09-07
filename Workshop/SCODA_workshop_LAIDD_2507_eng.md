@@ -1,5 +1,6 @@
 ## LAIDD online course:
 # Therapeutic Target Discovery using Single-Cell RNA-Seq Data (Practice materials)
+[Program page](https://www.laidd.org/local/ubonline/view.php?id=479&group=1&returnurl=aHR0cHM6Ly93d3cubGFpZGQub3JnL2xvY2FsL3Vib25saW5lL2luZGV4LnBocA==)
 
 ## Preparation
 - **Personal Device:** &nbsp;&nbsp; A laptop with Wi-Fi and a web browser (Tablet PCs are technically possible but not recommended).  
