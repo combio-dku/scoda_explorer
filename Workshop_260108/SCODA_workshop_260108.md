@@ -27,7 +27,7 @@
 2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
 3. 열린 주피터 노트북에서 코드셀을 하나씩 실행하여 실습을 진행한다. 
 
-## 실습 II & III: SCODA를 이용한 연구사례 (유방암 및 궤양성 대장염)
+## 실습 II & III: SCODA를 이용한 연구사례
 
 1. __실습 II:__  실습용 주피터 노트북을 (Ctrl + 클릭하여) 구글 Colab에서 열고 실습을 진행한다.
    - [Breast Cancer dataset](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Workshop_260108/scoda_practice_workshop_2A_BC_251228.ipynb)
