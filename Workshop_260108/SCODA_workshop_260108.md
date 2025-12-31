@@ -1,6 +1,5 @@
-## LAIDD online course: 
+## SCODA Workshop 2026.01.08: 
 # 단일세포 RNA-seq 데이터를 이용한 종양/조직 미세환경 분석과 치료 표적 발굴 (실습 자료)
-[교육 프로그램 페이지 가기](https://www.laidd.org/local/ubonline/view.php?id=479&group=1&returnurl=aHR0cHM6Ly93d3cubGFpZGQub3JnL2xvY2FsL3Vib25saW5lL2luZGV4LnBocA==)
 
 ## 사전 준비
 - __개인 준비:__ &nbsp;&nbsp; 무선랜과 웹브라우저가 설치된 Laptop &nbsp; (Tablet도 가능은 한데 추천하지는 않습니다.)
@@ -15,8 +14,8 @@
 ## 워크샵 진행 순서
 1. &nbsp;&nbsp; 실습I: AnnData 포맷 소개 및 SCANPY 활용법 실습
 2. &nbsp;&nbsp; SCODA를 이용한 단일세포 RNA-seq 분석 개요
-3. &nbsp;&nbsp; 실습II: SCODA를 이용한 연구사례 I (유방암)
-4. &nbsp;&nbsp; 실습III: SCODA를 이용한 연구사례 II (궤양성 대장염)
+3. &nbsp;&nbsp; 실습II: SCODA를 이용한 연구사례 I (3가지 암의 종양미세환경 프로파일링 및 표적발굴)
+4. &nbsp;&nbsp; 실습III: SCODA를 이용한 연구사례 II (궤양성 대장염 조직미세환경 프로파일링 및 치료표적발굴)
 5. &nbsp;&nbsp; 실습IV: KEGG Pathview 생성 및 pathway 변화 시각화 및 분석 실습 
 
 ## SCODA 간략 소개
@@ -24,14 +23,15 @@
 
 ## 실습 I: AnnData Format 소개 및 SCANPY 활용
 
-1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_LAIDD_1_250810.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 연다.  
+1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Workshop_260108/scoda_practice_workshop_1_scanpy_practice_251228.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 연다.  
 2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
 3. 열린 주피터 노트북에서 코드셀을 하나씩 실행하여 실습을 진행한다. 
 
 ## 실습 II & III: SCODA를 이용한 연구사례 (유방암 및 궤양성 대장염)
 
-1. __실습 II:__ (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_LAIDD_2_250810.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습을 진행한다. (breast Cancer dataset) 
-2. __실습 III:__ (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_LAIDD_3_250810.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습을 진행한다. (colitis dataset)
+1. __실습 II:__  실습용 주피터 노트북을 구글 Colab에서 열고 실습을 진행한다.
+   - (Ctrl +) [breast Cancer dataset](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_LAIDD_2_250810.ipynb) 
+3. __실습 III:__ (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_LAIDD_3_250810.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 열고 실습을 진행한다. (colitis dataset)
 
 ## 실습 IV: KEGG Pathview 생성 및 pathway 변화 시각화 및 분석 실습
 
