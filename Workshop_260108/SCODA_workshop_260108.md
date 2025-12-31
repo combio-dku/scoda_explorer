@@ -24,10 +24,10 @@
 ## 실습 준비: 
 
 1. 준비된 컴퓨터를 켜고 웹브라우저를 연다. (WiFi 인터넷 연결 확인 포함)   
-2. 본인의 구글 계정에 로그인 하고 본인의 google 드라이브를 열어둔다 (drive.google.com에 접속).
-3. 탭을 하나 더 열고 ChatGPT에 접속(Ctrl + https://chatgpt.com/ 클릭)하여 본인의 구글계정으로 로그인한다.  
-4. 탭을 하나 더 열고 워크샵 페이지에 접속하면 실습준비 끝~. 
-
+2. 탭을 하나 열고 워크샵 페이지에 접속한다. (현재 보고있는 요 페이지)
+3. 본인의 구글 계정에 로그인 하고 본인의 google 드라이브를 열어둔다 (drive.google.com에 접속).
+4. 탭을 하나 더 열고 ChatGPT에 접속(Ctrl + https://chatgpt.com/ 클릭)하여 본인의 구글계정으로 로그인하면 실습 준비 끝.  
+   
 ## 실습 I: AnnData Format 소개 및 SCANPY 활용
 
 1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Workshop_260108/scoda_practice_workshop_1_scanpy_practice_251228.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 연다.  
