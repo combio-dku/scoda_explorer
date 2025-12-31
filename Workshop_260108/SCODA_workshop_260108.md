@@ -21,6 +21,13 @@
 ## SCODA 간략 소개
 - 워크샵 당일날 간략하게 SCODA에 대한 소개를 드리겠지만 사전에 시간이 되신 다면 [BRIC 기업기술 웨비나: SCODA 소개](https://youtu.be/ajRnK3QeCWA?si=XGiIjtE07IMfZjdz)를 미리 보시고 오시면 더 좋습니다. [(SCODA 소개 발표자료)](https://github.com/combio-dku/scoda_explorer/blob/main/SCODA_pipeline_description.pdf)
 
+## 실습 준비: 
+
+1. 준비된 컴퓨테를 켜고 웹브라우저를 연다. (WiFi 인터넷 연결 확인 포함)   
+2. 본인의 구글 계정에 로그인 하고 google 드라이브도 열어둔다 (drive.google.com에 접속).
+3. 탭을 하나 더 열고 ChatGPT에 접속(Ctrl + https://chatgpt.com/ 클릭)하여 본인의 구글계정으로 로그인한다.  
+4. 탭을 하나 더 열고 워크샵 페이지에 접속()하면 실습준비 끝~. 
+
 ## 실습 I: AnnData Format 소개 및 SCANPY 활용
 
 1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Workshop_260108/scoda_practice_workshop_1_scanpy_practice_251228.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 연다.  
