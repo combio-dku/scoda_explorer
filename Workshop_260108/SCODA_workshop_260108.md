@@ -30,7 +30,7 @@
    
 ## 실습 I: AnnData Format 소개 및 SCANPY 활용
 
-1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Workshop_260108/scoda_practice_workshop_1_scanpy_practice_251228.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 연다.  
+1. (Ctrl +) [요기를 클릭](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Workshop_260108/scoda_practice_workshop_1_scanpy_practice_260105.ipynb)하여 실습용 주피터 노트북을 구글 Colab에서 연다.  
 2. Colab 탭 우측 상단의 `연결` 버튼을 눌러 Colab 서버에 연결한다. (필요시, 구글계정으로 로그인한다.)
 3. 열린 주피터 노트북에서 코드셀을 하나씩 실행하여 실습을 진행한다. 
 
