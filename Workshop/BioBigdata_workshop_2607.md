@@ -26,9 +26,9 @@
 
 ## 사용할 데이터 셋
 1. &nbsp;&nbsp; [__CCLE:__](https://depmap.org/portal/) 암세포주 유전자 발현량 데이터 
-1. &nbsp;&nbsp; __CTRP-v2:__ 암세포주 대상 항암제 반응설 측정 데이터 [https://depmap.org/portal/](https://portals.broadinstitute.org/ctrp.v2/)
-2. &nbsp;&nbsp; __CancerSEEK data:__ 39개 혈액 바이오마커 측정 데이터  https://www.science.org/doi/10.1126/science.aar3247
-3. &nbsp;&nbsp; __TCGA-BRCA cohort:__ Gene/Transcript expression, mutation profiles, CNVs ... for 1092 cancer tissue and 120 adjacent normal. http://firebrowse.org/?cohort=BRCA 
-4. &nbsp;&nbsp; __Quantum Machine 9 (QM9):__ 133,885 저분자 화합물에 대한 SMILES code 및 분자 특성 측정 데이터 https://www.kaggle.com/datasets/zaharch/quantum-machine-9-aka-qm9
+1. &nbsp;&nbsp; [__CTRP-v2:__](https://portals.broadinstitute.org/ctrp.v2/) 암세포주 대상 항암제 반응설 측정 데이터 
+2. &nbsp;&nbsp; [__CancerSEEK data:__](https://www.science.org/doi/10.1126/science.aar3247) 39개 혈액 바이오마커 측정 데이터  https://www.science.org/doi/10.1126/science.aar3247
+3. &nbsp;&nbsp; [__TCGA-BRCA cohort:__](http://firebrowse.org/?cohort=BRCA) Gene/Transcript expression, mutation profiles, CNVs ... for 1092 cancer tissue and 120 adjacent normal. 
+4. &nbsp;&nbsp; [__Quantum Machine 9 (QM9):__](https://www.kaggle.com/datasets/zaharch/quantum-machine-9-aka-qm9) 133,885 저분자 화합물에 대한 SMILES code 및 분자 특성 측정 데이터 
 
 
