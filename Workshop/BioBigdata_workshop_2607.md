@@ -25,8 +25,8 @@
 9. &nbsp;&nbsp; 분자 임베딩을 이용한 항암제 반응성 예측 [실습 5B 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/bio_bigdata_workshop_5B_ANN_regressor_ccle_ctrpv2_with_embedding.ipynb)
 
 ## 사용할 데이터 셋
-1. &nbsp;&nbsp; [__CCLE:__](https://depmap.org/portal/) 암세포주 유전자 발현량 데이터 
-1. &nbsp;&nbsp; [__CTRP-v2:__](https://portals.broadinstitute.org/ctrp.v2/) 암세포주 대상 항암제 반응설 측정 데이터 
+1. &nbsp;&nbsp; [__CCLE:__](https://depmap.org/portal/) 800종 이상의 암세포주 유전자 발현량 데이터 
+1. &nbsp;&nbsp; [__CTRP-v2:__](https://portals.broadinstitute.org/ctrp.v2/) 800종 이상의 암세포주 대상 500종 이상의 저분자 항암제의 반응성 측정 데이터 
 2. &nbsp;&nbsp; [__CancerSEEK data:__](https://www.science.org/doi/10.1126/science.aar3247) 1000명 이상의 암환자와 800명 이상의 정상인에 대한 39개 혈액 바이오마커 측정 데이터
 3. &nbsp;&nbsp; [__TCGA-BRCA cohort:__](http://firebrowse.org/?cohort=BRCA) Gene/Transcript expression, mutation profiles, CNVs ... for 1092 cancer tissue and 120 adjacent normal. 
 4. &nbsp;&nbsp; [__Quantum Machine 9 (QM9):__](https://www.kaggle.com/datasets/zaharch/quantum-machine-9-aka-qm9) 133,885 저분자 화합물에 대한 SMILES code 및 분자 특성 측정 데이터 
