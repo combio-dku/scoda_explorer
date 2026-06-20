@@ -28,7 +28,7 @@
 1. &nbsp;&nbsp; [__CCLE:__](https://depmap.org/portal/) 800종 이상의 암세포주 유전자 발현량 데이터 
 1. &nbsp;&nbsp; [__CTRP-v2:__](https://portals.broadinstitute.org/ctrp.v2/) 800종 이상의 암세포주 대상 500종 이상의 저분자 항암제의 반응성 측정 데이터 
 2. &nbsp;&nbsp; [__CancerSEEK data:__](https://www.science.org/doi/10.1126/science.aar3247) 1000명 이상의 암환자와 800명 이상의 정상인에 대한 39개 혈액 바이오마커 측정 데이터
-3. &nbsp;&nbsp; [__TCGA-BRCA cohort:__](http://firebrowse.org/?cohort=BRCA) Gene/Transcript expression, mutation profiles, CNVs ... for 1092 cancer tissue and 120 adjacent normal. 
+3. &nbsp;&nbsp; [__TCGA-BRCA cohort:__](http://firebrowse.org/?cohort=BRCA) 1000명 이상의 우방암 환자에 대한 유전자/전사체 발현량, SNP 목록, CNV, .. 등 조직 정보와 처방이력, 생존 정보 등을 포함하는 임상정보 
 4. &nbsp;&nbsp; [__Quantum Machine 9 (QM9):__](https://www.kaggle.com/datasets/zaharch/quantum-machine-9-aka-qm9) 133,885 저분자 화합물에 대한 SMILES code 및 분자 특성 측정 데이터 
 
 
