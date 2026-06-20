@@ -8,15 +8,27 @@
 - __사용 언어:__ &nbsp;&nbsp; python3 &nbsp; (Google Colab을 사용할 예정이라 뭔가 따로 설치할 필요는 없습니다.)
 - __발표 자료:__ &nbsp;&nbsp; 따로 이메일로 송부 드립니다.
 - __사전 지식:__
-  - 필수: 생명과학/생화학에 대한 기본 지식(관련/유사 학과 전공자)
-  - 필수: Python coding 문법, 함수정의 및 다양한 자료 구조에 대한 기초 지식
-  - 권장: 학부 비전공자 수준의 통계학 (기초 통계량과 통계검정 등)
-  - 권장: 학부 비전공자 수준의 선형대수 (벡터 행렬) 
+  - __필수:__ 생명과학/생화학에 대한 기본 지식(관련/유사 학과 전공자)
+  - __필수:__ Python coding 문법, 함수정의 및 다양한 자료 구조에 대한 기초 지식
+  - __권장:__ 학부 비전공자 수준의 통계학 (기초 통계량과 통계검정 등)
+  - __권장:__ 학부 비전공자 수준의 선형대수 (벡터 행렬) 
 
-## 워크샵 진행 순서
-1. &nbsp;&nbsp; 실습I: AnnData 포맷 소개 및 SCANPY 활용법 실습
-2. &nbsp;&nbsp; SCODA를 이용한 단일세포 RNA-seq 분석 개요
-3. &nbsp;&nbsp; 실습II: SCODA를 이용한 연구사례 I (유방암)
-4. &nbsp;&nbsp; 실습III: SCODA를 이용한 연구사례 II (궤양성 대장염)
-5. &nbsp;&nbsp; 실습IV: KEGG Pathview 생성 및 pathway 변화 시각화 및 분석 실습 
+## 실습 자료
+1. &nbsp;&nbsp; Python, pandas bridge practice 
+2. &nbsp;&nbsp; 항암제 반응성 예측 (유전자 반현량 기반)
+3. &nbsp;&nbsp; 항암제 반응성 예측 (유전자 반현량 + 변이 정보 기반)
+4. &nbsp;&nbsp; 혈액 바이오마커 기반 암진단 및 암종판별
+5. &nbsp;&nbsp; 유방암 수용체 상태 판별 (유전자 반현량 기반)
+6. &nbsp;&nbsp; 혈액 바이오마커 기반 암진단 및 암종판별을 위한 인공 신경망 응용 
+7. &nbsp;&nbsp; 항암제 반응성 예측을 위한 인공 신경망 응용 (유전자 반현량 + 변이 정보 기반)
+8. &nbsp;&nbsp; Transformer 모형을 이용한 작은 분자 표현 학습 (SMILES code 기반)
+9. &nbsp;&nbsp; 분자 임베딩을 이용한 항암제 반응성 예측
+
+## 사용할 데이터 셋
+1. &nbsp;&nbsp; __CCLE:__ 암세포주 유전자 발현량 데이터 https://depmap.org/portal/
+1. &nbsp;&nbsp; __CTRP-v2:__ 암세포주 대상 항암제 반응설 측정 데이터 [https://depmap.org/portal/](https://portals.broadinstitute.org/ctrp.v2/)
+2. &nbsp;&nbsp; __CancerSEEK data:__ 39개 혈액 바이오마커 측정 데이터  https://www.science.org/doi/10.1126/science.aar3247
+3. &nbsp;&nbsp; __TCGA-BRCA cohort:__ Gene/Transcript expression, mutation profiles, CNVs ... for 1092 cancer tissue and 120 adjacent normal. http://firebrowse.org/?cohort=BRCA 
+4. &nbsp;&nbsp; __Quantum Machine 9 (QM9):__ 133,885 저분자 화합물에 대한 SMILES code 및 분자 특성 측정 데이터 https://www.kaggle.com/datasets/zaharch/quantum-machine-9-aka-qm9
+
 
