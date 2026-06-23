@@ -18,7 +18,3 @@
 2. &nbsp;&nbsp; [실습 B 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/Bi_practice_B_RNA-seq_v08_251215.ipynb): Short-read bulk RNA-seq, STAR alignment, gene expression quantification, DEG/DEIso analysis
 3. &nbsp;&nbsp; [실습 C 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/Bi_practice_C_RNA-seq-PB_v08_251216.ipynb): PacBio long-read RNA-seq, minimap2 alignment, transcript assembly, isoform-level interpretation
 
-## 사용할 데이터 셋
-1. &nbsp;&nbsp; [__WES practice data:__](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/Bi_practice_A_WES_v07_251215.ipynb) Reference genome/annotation, paired-end WES FASTQ, GATK 보조 VCF를 포함한 변이 분석 실습용 데이터
-2. &nbsp;&nbsp; [__Short-read RNA-seq practice data:__](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/Bi_practice_B_RNA-seq_v08_251215.ipynb) CRC cell line paired-end RNA-seq FASTQ와 reference genome/annotation을 포함한 RNA-seq 분석 실습용 데이터
-3. &nbsp;&nbsp; [__PacBio RNA-seq practice data:__](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/Bi_practice_C_RNA-seq-PB_v08_251216.ipynb) PacBio long-read RNA-seq FASTQ와 reference genome/annotation을 포함한 isoform 분석 실습용 데이터
