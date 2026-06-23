@@ -14,8 +14,6 @@
     - Statistical Genetics Workshop by the Korean Society of Genomics (every July)  
     - BIML Workshop by the Korean Bioinformation Society (every February & August)  
 
----
-
 ## Workshop Agenda
 1. &nbsp;&nbsp; Overview of single-cell RNA-seq analysis using SCODA  
 2. &nbsp;&nbsp; **Practice I:** Introduction to AnnData format and basic SCANPY usage  
@@ -23,14 +21,10 @@
 4. &nbsp;&nbsp; **Practice III:** SCODA case study II (Ulcerative Colitis dataset)  
 5. &nbsp;&nbsp; **Practice IV:** KEGG Pathview generation and pathway visualization/analysis  
 
----
-
 ## Introduction to SCODA
 - A brief introduction to SCODA will be provided during the workshop.  
 - If you have time beforehand, watching the [BRIC Corporate Technology Webinar: SCODA Introduction](https://youtu.be/ajRnK3QeCWA?si=XGiIjtE07IMfZjdz) is recommended. (in Korean)  
 - You can also review the [SCODA presentation slides](https://github.com/combio-dku/scoda_explorer/blob/main/SCODA_pipeline_description.pdf).
-
----
 
 ## Practice I: AnnData Format & SCANPY Basics
 
@@ -38,14 +32,10 @@
 2. Click **“Connect”** in the top-right of the Colab tab to connect to the runtime (sign in with your Google account if required).  
 3. Execute the code cells step by step to complete the practice.  
 
----
-
 ## Practice II & III: SCODA Case Studies (Breast Cancer & Ulcerative Colitis)
 
 1. **Practice II:** (Ctrl + Click) [Open notebook](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_LAIDD_2_250810.ipynb) for the Breast Cancer dataset and follow the exercises.  
 2. **Practice III:** (Ctrl + Click) [Open notebook](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/scoda_practice_workshop_LAIDD_3_250810.ipynb) for the Ulcerative Colitis dataset and follow the exercises.  
-
----
 
 ## Practice IV: KEGG Pathview and Pathway Visualization
 
@@ -60,8 +50,6 @@
   <img src="https://github.com/combio-dku/KEGGPathviewGen4SCODA/blob/main/images/KEGG_pathview_UC_mac.png" style="width:90%;"/>
 </div>
 
----
-
 ## Trying Out SCODiA
 - [SCODiA](https://mlbi-lab.net/scodia/) is an LLM-based interactive analysis assistant.
 - It allows you to analyze the data-mining examples covered above through natural-language conversation, without writing code.
@@ -71,8 +59,6 @@
   2. [NSCLC data report](https://drive.google.com/file/d/1PbhRJIYrJkAAAHbJFBAdNnyobeiCbVWz/view?usp=sharing)
   3. [PDAC data report](https://drive.google.com/file/d/1ogO4IE9rkmKFYM9OfTjDASfY1_IyfFd0/view?usp=sharing)
   4. [Colitis data report](https://drive.google.com/file/d/1scJRW4Il6U9PRucM1MSBaCgTVy5h0xOg/view?usp=sharing)
-
----
 
 ## Trying Out the SCODA Pipeline
 
@@ -88,8 +74,6 @@
    7. Open the downloaded SCODA result file in the provided Jupyter notebook and apply the workshop exercises to perform additional data mining.
 
 - **Note:** If the first optional input, **Optional analysis config file**, is not provided, the pipeline automatically selects a tissue type. If the wrong tissue type is selected, cell type annotation may become inaccurate. In that case, click the **Default Configuration** link to download `analysis_config.py`, change the `TISSUE` variable to `'Breast'`, and upload it together with the data file in the **Optional analysis config file** field. See the [example analysis_config.py file](https://github.com/combio-dku/scoda_explorer/blob/main/Workshop/analysis_config_breast.py).
-
----
 
 ## Reference Publications (SCODA Applications)
 
