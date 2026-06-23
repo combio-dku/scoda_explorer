@@ -49,9 +49,7 @@
 - [SCODiA](https://mlbi-lab.net/scodia/) 는 LLM기반의 interactive analysis assistant 입니다.
 - 코딩을 사용하지 않고도 위 예제에서 다룬 데이터 마이닝을 자연어로 대화하면서 분석할 수 있습니다.
 - 또한, 자동 보고서 생성 기능이 있어 클릭 한번으로 단일세포 RNA-seq 데이터로부터 생물학적 통찰을 얻을 수 있습니다.
-<br>
 - SCODiA를 이용해 자동으로 생성된 보고서
-- 
   1. [Breast Cancer 데이터 보고서](https://drive.google.com/file/d/1cgbzEhSGIHtUEQspFSNryriuS3KfmCJx/view?usp=sharing)
   2. [NSCLC 데이터 보고서](https://drive.google.com/file/d/1PbhRJIYrJkAAAHbJFBAdNnyobeiCbVWz/view?usp=sharing)
   3. [PDAC 데이터 보고서](https://drive.google.com/file/d/1ogO4IE9rkmKFYM9OfTjDASfY1_IyfFd0/view?usp=sharing)
