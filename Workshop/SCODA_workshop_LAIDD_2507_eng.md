@@ -66,6 +66,7 @@
 - [SCODiA](https://mlbi-lab.net/scodia/) is an LLM-based interactive analysis assistant.
 - It allows you to analyze the data-mining examples covered above through natural-language conversation, without writing code.
 - It also provides an automatic report-generation feature, allowing users to obtain biological insights from single-cell RNA-seq data with a single click.
+
 - Example reports automatically generated using SCODiA:
   1. [Breast Cancer data report](https://drive.google.com/file/d/1cgbzEhSGIHtUEQspFSNryriuS3KfmCJx/view?usp=sharing)
   2. [NSCLC data report](https://drive.google.com/file/d/1PbhRJIYrJkAAAHbJFBAdNnyobeiCbVWz/view?usp=sharing)
