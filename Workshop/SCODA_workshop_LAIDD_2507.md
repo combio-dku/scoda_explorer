@@ -2,6 +2,8 @@
 # 단일세포 RNA-seq 데이터를 이용한 종양/조직 미세환경 분석과 치료 표적 발굴 (실습 자료)
 [교육 프로그램 페이지 가기](https://www.laidd.org/local/ubonline/view.php?id=479&group=1&returnurl=aHR0cHM6Ly93d3cubGFpZGQub3JnL2xvY2FsL3Vib25saW5lL2luZGV4LnBocA==)
 
+---
+
 ## 사전 준비
 - __개인 준비:__ &nbsp;&nbsp; 무선랜과 웹브라우저가 설치된 Laptop &nbsp; (Tablet도 가능은 한데 추천하지는 않습니다.)
 - __사용 언어:__ &nbsp;&nbsp; python3 &nbsp; (Google Colab을 사용할 예정이라 뭔가 따로 설치할 필요는 없습니다.)
@@ -46,7 +48,7 @@
 </div>
     
 ## SCODiA 사용해보기
-- [SCODiA](https://mlbi-lab.net/scodia/) 는 LLM기반의 interactive analysis assistant 입니다.
+- [SCODiA](https://mlbi-lab.net/scodia/) 는 __LLM기반의 interactive analysis assistant__ 입니다.
 - 코딩을 사용하지 않고도 위 예제에서 다룬 데이터 마이닝을 자연어로 대화하면서 분석할 수 있습니다.
 - 또한, 자동 보고서 생성 기능이 있어 클릭 한번으로 단일세포 RNA-seq 데이터로부터 생물학적 통찰을 얻을 수 있습니다.
 - SCODiA를 이용해 자동으로 생성된 보고서
