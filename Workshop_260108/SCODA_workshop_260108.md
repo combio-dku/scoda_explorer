@@ -56,7 +56,17 @@
 <div align="center">
   <img src="https://github.com/combio-dku/KEGGPathviewGen4SCODA/blob/main/images/KEGG_pathview_UC_mac.png" style="width:90%;"/>
 </div>
-    
+
+## SCODiA 사용해보기
+- [SCODiA](https://mlbi-lab.net/scodia/) 는 __LLM기반의 interactive analysis assistant__ 입니다.
+- 코딩을 사용하지 않고도 위 예제에서 다룬 데이터 마이닝을 자연어로 대화하면서 분석할 수 있습니다.
+- 또한, 자동 보고서 생성 기능이 있어 클릭 한번으로 단일세포 RNA-seq 데이터로부터 생물학적 통찰을 얻을 수 있습니다.
+- SCODiA를 이용해 자동으로 생성된 보고서
+  1. [Breast Cancer 데이터 보고서](https://drive.google.com/file/d/1cgbzEhSGIHtUEQspFSNryriuS3KfmCJx/view?usp=sharing)
+  2. [NSCLC 데이터 보고서](https://drive.google.com/file/d/1PbhRJIYrJkAAAHbJFBAdNnyobeiCbVWz/view?usp=sharing)
+  3. [PDAC 데이터 보고서](https://drive.google.com/file/d/1ogO4IE9rkmKFYM9OfTjDASfY1_IyfFd0/view?usp=sharing)
+  4. [Colitis 데이터 보고서](https://drive.google.com/file/d/1scJRW4Il6U9PRucM1MSBaCgTVy5h0xOg/view?usp=sharing)
+
 ## SCODA pipeline 사용해보기
 
 1. [사용할 데이터](https://drive.google.com/file/d/1DF_dGMSOi54eVc5_2DVxsWv71feFvgcb/view?usp=sharing)를 다운 받는다. 
