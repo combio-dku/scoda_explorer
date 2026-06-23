@@ -65,22 +65,17 @@
 ## Trying Out the SCODA Pipeline
 
 1. Download the [example dataset](https://drive.google.com/file/d/1DF_dGMSOi54eVc5_2DVxsWv71feFvgcb/view?usp=sharing).  
-2. Visit the [SCODA demo page](https://mlbi-lab.net).  
-3. In **Mandatory Input**:  
-   1. Select **“Compressed 10x_mtx file sets + (optional) meta_data.csv”**.  
-   2. Click **“Choose File”** and upload the downloaded dataset.  
-   3. Set **Species** to *Human* and keep **Tumor cell Identification** as default.  
-   4. Click **Submit** to start SCODA processing.  
-   5. A progress window will appear; processing takes ~5–10 minutes.  
-   6. Once finished, click **Download Result** to get the SCODA output.  
-   7. Open the SCODA result with the provided notebooks and perform further data mining.  
+2. Go to the [SCODA demo page](https://mlbi-lab.net).  
+3. In the **Mandatory Input** section:
+   1. Select **“Compressed 10x_mtx file sets + (optional) meta_data.csv”**.
+   2. Click **Choose File** and select the downloaded data file.
+   3. Set **Species** to **Human** and leave **Tumor cell Identification** unchanged.
+   4. Click **Submit** so that SCODA can process the uploaded data.
+   5. A progress window will appear and show the SCODA execution log. Processing takes approximately 5-10 minutes.
+   6. When processing is complete and the **Download Result** button appears, click it to download the SCODA result file.
+   7. Open the downloaded SCODA result file in the provided Jupyter notebook and apply the workshop exercises to perform additional data mining.
 
-- **Note:** If you do not provide an *Optional analysis config file*, SCODA automatically guesses the tissue type.  
-  - Incorrect tissue selection can reduce annotation accuracy.  
-  - To ensure correct analysis:  
-    1. Download the [default analysis_config.py](https://github.com/combio-dku/scoda_explorer/blob/main/Workshop/analysis_config_breast.py).  
-    2. Modify the `TISSUE` variable to `'Breast'`.  
-    3. Upload this file in the **Optional analysis config file** field along with the dataset.  
+- **Note:** If the first optional input, **Optional analysis config file**, is not provided, the pipeline automatically selects a tissue type. If the wrong tissue type is selected, cell type annotation may become inaccurate. In that case, click the **Default Configuration** link to download `analysis_config.py`, change the `TISSUE` variable to `'Breast'`, and upload it together with the data file in the **Optional analysis config file** field. See the [example analysis_config.py file](https://github.com/combio-dku/scoda_explorer/blob/main/Workshop/analysis_config_breast.py).
 
 ---
 
