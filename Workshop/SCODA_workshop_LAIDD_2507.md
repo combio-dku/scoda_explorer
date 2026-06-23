@@ -2,7 +2,6 @@
 # 단일세포 RNA-seq 데이터를 이용한 종양/조직 미세환경 분석과 치료 표적 발굴 (실습 자료)
 [교육 프로그램 페이지 가기](https://www.laidd.org/local/ubonline/view.php?id=479&group=1&returnurl=aHR0cHM6Ly93d3cubGFpZGQub3JnL2xvY2FsL3Vib25saW5lL2luZGV4LnBocA==)
 
----
 
 ## 사전 준비
 - __개인 준비:__ &nbsp;&nbsp; 무선랜과 웹브라우저가 설치된 Laptop &nbsp; (Tablet도 가능은 한데 추천하지는 않습니다.)
@@ -20,8 +19,6 @@
 3. &nbsp;&nbsp; 실습II: SCODA를 이용한 연구사례 I (유방암)
 4. &nbsp;&nbsp; 실습III: SCODA를 이용한 연구사례 II (궤양성 대장염)
 5. &nbsp;&nbsp; 실습IV: KEGG Pathview 생성 및 pathway 변화 시각화 및 분석 실습 
-
---- 
 
 ## SCODA 간략 소개
 - 워크샵 당일날 간략하게 SCODA에 대한 소개를 드리겠지만 사전에 시간이 되신 다면 [BRIC 기업기술 웨비나: SCODA 소개](https://youtu.be/ajRnK3QeCWA?si=XGiIjtE07IMfZjdz)를 미리 보시고 오시면 더 좋습니다. [(SCODA 소개 발표자료)](https://github.com/combio-dku/scoda_explorer/blob/main/SCODA_pipeline_description.pdf)
@@ -49,8 +46,6 @@
   <img src="https://github.com/combio-dku/KEGGPathviewGen4SCODA/blob/main/images/KEGG_pathview_UC_mac.png" style="width:90%;"/>
 </div>
 
----
-
 ## SCODiA 사용해보기
 - [SCODiA](https://mlbi-lab.net/scodia/) 는 __LLM기반의 interactive analysis assistant__ 입니다.
 - 코딩을 사용하지 않고도 위 예제에서 다룬 데이터 마이닝을 자연어로 대화하면서 분석할 수 있습니다.
@@ -75,8 +70,6 @@
    7. 다운 받은 SCODA 결과 파일을 제공된 주피터 노트북에서 열어 위 실습내용을 응용하여 데이터 마이닝을 수행한다.
   
 - __참고 사항:__ Optional Input 첫번째인 Optional analysis config file을 따로 입력하지 않을 경우 파이프라인이 Tissue를 자동으로 선택하는데, 이 경우 잘못된 Tissue가 선택되면 세포 유형식별이 부정확할 수 있습니다. 이 경우, Default Configuration 링크를 클릭하여 analysis_config.py 파일을 다운 받고 TISSUE 변수를 'Breast'로 변경한 후 이를 데이터 파일 업로드시 Optional analysis config file 입력창에 넣어 같이 업로드 하면 보다 정확한 결과를 얻을 수 있습니다. [analysis_config.py 예제 파일](https://github.com/combio-dku/scoda_explorer/blob/main/Workshop/analysis_config_breast.py) 참고
-
----
 
 ## 참고 논문 (SCODA 활용 사례)
 1. SCODA를 이용한 자가면역질환(궤양성 대장염) 연구: [Integrative analysis of single-cell RNA-seq and gut microbiome metabarcoding data elucidates macrophage dysfunction in mice with DSS-induced ulcerative colitis](https://www.nature.com/articles/s42003-024-06409-w). 
