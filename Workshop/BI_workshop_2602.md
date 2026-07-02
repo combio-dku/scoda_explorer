@@ -13,7 +13,7 @@
   - __권장:__ Linux shell command와 파일/디렉토리 구조에 대한 기초 지식
 
 ## 실습 자료
-1. &nbsp;&nbsp; [실습 A 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/Bi_practice_A_WES_v07_251215.ipynb): Whole Exome Sequencing, read alignment, variant calling, copy number variation analysis
+1. &nbsp;&nbsp; [실습 A 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/Bi_practice_A_WES_v07_251215.ipynb): 여러가지 기본 파일 형식들, Whole Exome Sequencing, read alignment, variant calling, copy number variation analysis
 2. &nbsp;&nbsp; [실습 B 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/Bi_practice_B_RNA-seq_v08_251215.ipynb): Short-read bulk RNA-seq, STAR alignment, gene expression quantification, DEG/DEIso analysis
 3. &nbsp;&nbsp; [실습 C 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/Bi_practice_C_RNA-seq-PB_v08_251216.ipynb): PacBio long-read RNA-seq, minimap2 alignment, transcript assembly, isoform-level interpretation
 
