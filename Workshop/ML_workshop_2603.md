@@ -16,9 +16,9 @@
 1. &nbsp;&nbsp; [실습 1 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_01_dataframe_basic_stats_vis_dimred_clustering.ipynb): DataFrame, 기초 통계량, 시각화, 차원축소, 클러스터링
 2. &nbsp;&nbsp; [실습 2 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_02_regression_ex.ipynb): 회귀분석 예제
 3. &nbsp;&nbsp; [실습 3 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_03_linear_prediction.ipynb): 선형 예측 모형 실습 (시계열 데이터 예측)
-4. &nbsp;&nbsp; [실습 4 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_04_House_prices_prediction_v03.ipynb): 주택 가격 예측 실습
-5. &nbsp;&nbsp; [실습 5 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_05_classification_ex_plus_ROC.ipynb): 분류 모형과 ROC 분석
-6. &nbsp;&nbsp; [실습 6 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_06_classification_ex_plus_ROC_heart_failure.ipynb): 심부전 데이터 분류와 ROC 분석
+4. &nbsp;&nbsp; [실습 4 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_04_House_prices_prediction_v03.ipynb): 주택 가격 예측 실습 (범주형 데이터의 맵핑 실습)
+5. &nbsp;&nbsp; [실습 5 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_05_classification_ex_plus_ROC.ipynb): 분류 모형과 ROC/AUC 분석
+6. &nbsp;&nbsp; [실습 6 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_06_classification_ex_plus_ROC_heart_failure.ipynb): 심부전 데이터 분류와 ROC/AUC 분석 예제
 7. &nbsp;&nbsp; [실습 7 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_07_Neural_Net_ex.ipynb): 인공신경망 기초 실습 (필기체 숫자 이미지)
 8. &nbsp;&nbsp; [실습 8 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_08_CNN.ipynb): CNN 기초 실습 (필기체 숫자 이미지)
 9. &nbsp;&nbsp; [실습 9 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_09_RNN_seq_pred.ipynb): RNN 기반 sequence prediction (시계열 데이터 예측)
