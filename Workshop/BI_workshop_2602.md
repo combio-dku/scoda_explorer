@@ -8,10 +8,9 @@
 - __사용 언어:__ &nbsp;&nbsp; python3, linux shell command &nbsp; (Google Colab을 사용할 예정이라 뭔가 따로 설치할 필요는 없습니다.)
 - __발표 자료:__ &nbsp;&nbsp; 따로 이메일로 송부 드립니다.
 - __사전 지식:__
-  - __필수:__ 생명과학/생화학/유전체학에 대한 기본 지식(관련/유사 학과 전공자)
+  - __필수:__ 생명과학/생화학/유전체학(Central dogma 포함)에 대한 기본 지식(관련/유사 학과 전공자)
   - __필수:__ Python coding 문법, 함수정의 및 다양한 자료 구조에 대한 기초 지식
   - __권장:__ Linux shell command와 파일/디렉토리 구조에 대한 기초 지식
-  - __권장:__ FASTQ, FASTA, GTF, BAM, VCF 등 NGS 주요 파일 형식에 대한 기본 이해
 
 ## 실습 자료
 1. &nbsp;&nbsp; [실습 A 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/Bi_practice_A_WES_v07_251215.ipynb): Whole Exome Sequencing, read alignment, variant calling, copy number variation analysis
