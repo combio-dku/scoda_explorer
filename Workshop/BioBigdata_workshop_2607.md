@@ -22,7 +22,7 @@
 6. &nbsp;&nbsp; [실습 3B 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/bio_bigdata_workshop_3B_classification_practice_tcga_brca.ipynb): 유방암 수용체 상태 판별 (유전자 발현량 기반)
 7. &nbsp;&nbsp; [실습 4A 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/bio_bigdata_workshop_4A_ANN_classifier_cancerseek.ipynb): 혈액 바이오마커 기반 암진단 및 암종판별을 위한 인공 신경망 응용
 8. &nbsp;&nbsp; [실습 4B 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/bio_bigdata_workshop_4B_ANN_regressor_ccle_ctrpv2.ipynb): 항암제 반응성 예측을 위한 인공 신경망 응용 (유전자 발현량 + 변이 정보 기반)
-9. &nbsp;&nbsp; [실습 5A 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/bio_bigdata_workshop_5A_qm9_smiles_representation_learning.ipynb): Transformer 모형을 이용한 작은 분자 표현 학습 (SMILES code 기반)
+9. &nbsp;&nbsp; [실습 5A 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/bio_bigdata_workshop_5A_qm9_smiles_representation_learning.ipynb): Transformer 모형을 이용한 저분자 화합물 표현 학습 (SMILES code 기반)
 10. &nbsp;&nbsp; [실습 5B 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/bio_bigdata_workshop_5B_ANN_regressor_ccle_ctrpv2_with_embedding.ipynb): 분자 임베딩을 이용한 항암제 반응성 예측
 
 ## 사용할 데이터 셋
