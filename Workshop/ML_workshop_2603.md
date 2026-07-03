@@ -24,6 +24,8 @@
 9. &nbsp;&nbsp; [실습 9 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_09_RNN_seq_pred.ipynb): RNN 기반 sequence prediction (시계열 데이터 예측)
 10. &nbsp;&nbsp; [실습 10 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_10_RNN_hihello.ipynb): RNN Sentence prediction (다음 문자열 예측)
 
+- &nbsp;&nbsp; [실습 A1 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_02_regression_G2F.ipynb): Genome-to-Field회귀분석 예제
+
 ## 사용할 데이터 셋
 1. &nbsp;&nbsp; 각 실습 노트북에서 제공하거나 Colab 실행 중 다운로드하는 예제 데이터 셋을 사용합니다.
 2. &nbsp;&nbsp; 주택 가격, 분류/ROC, 심부전, 이미지, sequence prediction 등 기계학습과 딥러닝 기본 실습에 적합한 공개 예제 데이터를 사용합니다.
