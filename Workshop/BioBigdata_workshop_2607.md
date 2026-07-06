@@ -31,3 +31,7 @@
 2. &nbsp;&nbsp; [__CancerSEEK data:__](https://www.science.org/doi/10.1126/science.aar3247) 1000명 이상의 암환자와 800명 이상의 정상인에 대한 39개 혈액 바이오마커 측정 데이터
 3. &nbsp;&nbsp; [__TCGA-BRCA cohort:__](http://firebrowse.org/?cohort=BRCA) 1000명 이상의 유방암 환자에 대한 유전자 발현량, SNP 목록 등 조직 정보 + 임상정보 
 4. &nbsp;&nbsp; [__Quantum Machine 9 (QM9):__](https://www.kaggle.com/datasets/zaharch/quantum-machine-9-aka-qm9) 13만종 이상의 저분자 화합물에 대한 SMILES code 및 분자 특성 측정 데이터 
+
+## 강의자료
+1. [프로그램 소개](https://drive.google.com/file/d/1Ue2k6wCL6Vkkls7AyEUUyjl0DCJkjqHP/view?usp=sharing)
+2. [기계학습과 인공신경망](https://drive.google.com/file/d/1avg_u8VReOsOpBNtXFJ-I8RFZvKHlkKr/view?usp=sharing)
