@@ -24,7 +24,7 @@
 9. &nbsp;&nbsp; [실습 9 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_09_RNN_seq_pred.ipynb): RNN 기반 sequence prediction (시계열 데이터 예측)
 10. &nbsp;&nbsp; [실습 10 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_10_RNN_hihello.ipynb): RNN Sentence prediction (다음 문자열 예측)
 
-- &nbsp;&nbsp; [실습 A1 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_02_regression_G2F.ipynb): Genome-to-Field 회귀분석 예제
+- &nbsp;&nbsp; [실습 A1 주피터 노트북](https://colab.research.google.com/github/combio-dku/scoda_explorer/blob/main/Notebooks/ML_practice_02_regression_G2F_gridsearch.ipynb): Genome-to-Field 회귀분석 예제
 
 ## 사용할 데이터 셋
 1. &nbsp;&nbsp; 각 실습 노트북에서 제공하거나 Colab 실행 중 다운로드하는 예제 데이터 셋을 사용합니다.
