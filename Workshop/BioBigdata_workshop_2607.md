@@ -35,3 +35,7 @@
 ## 강의자료
 1. &nbsp;&nbsp; 강의자료1: [프로그램 소개](https://drive.google.com/file/d/1Ue2k6wCL6Vkkls7AyEUUyjl0DCJkjqHP/view?usp=sharing)
 2. &nbsp;&nbsp; 강의자료2: [기계학습과 인공신경망](https://drive.google.com/file/d/1XiJnc_wefZhQ2JKibi9TDdii5tNbgK9e/view?usp=sharing)
+
+## 설문 및 퀴즈
+1. &nbsp;&nbsp; [퀴즈1 260715](https://forms.gle/SbisvCGPjrUZbZNv6)
+2. &nbsp;&nbsp; [설문1 260715](https://forms.gle/Q9LWvfZS5EH3GC7a9)
