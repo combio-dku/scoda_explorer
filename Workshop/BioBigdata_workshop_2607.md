@@ -39,3 +39,4 @@
 ## 설문 및 퀴즈
 1. &nbsp;&nbsp; [퀴즈1 260715](https://forms.gle/SbisvCGPjrUZbZNv6)
 2. &nbsp;&nbsp; [설문1 260715](https://forms.gle/Q9LWvfZS5EH3GC7a9)
+3. [설문](https://forms.gle/7fYv6LDJxWga3LbU7) 
