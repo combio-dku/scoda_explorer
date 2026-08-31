@@ -34,9 +34,4 @@
 
 ## 강의자료
 1. &nbsp;&nbsp; 강의자료1: [프로그램 소개](https://drive.google.com/file/d/1Ue2k6wCL6Vkkls7AyEUUyjl0DCJkjqHP/view?usp=sharing)
-2. &nbsp;&nbsp; 강의자료2: [기계학습과 인공신경망](https://drive.google.com/file/d/1sZteyty4Jlvzp5NznKy--lKzEeDSVdNe/view?usp=sharing)
-3. &nbsp;&nbsp; 사전준비: [사전준비사항](https://raw.githubusercontent.com/combio-dku/scoda_explorer/main/Docs/KOTHEA_BioBigData_Workshop_Prep.pdf)
 
-## 설문 및 퀴즈
-1. &nbsp;&nbsp; [퀴즈1 260715](https://forms.gle/SbisvCGPjrUZbZNv6)
-2. &nbsp;&nbsp; [설문1 260715](https://forms.gle/Q9LWvfZS5EH3GC7a9)
