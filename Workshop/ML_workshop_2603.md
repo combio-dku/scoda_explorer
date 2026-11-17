@@ -3,6 +3,16 @@
 - __교육 대상:__ &nbsp;&nbsp; Python을 이용해 데이터 분석, 기계학습, 딥러닝 기초 실습을 진행하려는 학부생, 대학원생, 연구원
 - __교육 목표:__ &nbsp;&nbsp; 데이터프레임 처리, 시각화, 차원축소, 회귀, 분류, 인공신경망, CNN, RNN의 기본 원리를 실습하고 실제 데이터 분석 문제에 적용할 수 있도록 한다
 
+## 교재
+
+본 워크숍은 **『기계학습과 인공신경망: Wikipedia로 배우는 기초이론』**을 교재로 사용합니다. 교재의 이론 설명과 함께 아래 Jupyter Notebook을 활용하여 실습을 진행합니다.
+
+- **저자:** 윤석현, 김동재
+- **출판사:** 홍릉
+- **도서 정보 및 표지 출처:** [YES24](https://www.yes24.com/Product/Goods/142770984)
+
+<img src="../Docs/images/machine-learning-and-artificial-neural-networks.jpg" alt="기계학습과 인공신경망: Wikipedia로 배우는 기초이론 — 윤석현, 김동재 저, 홍릉" width="300" />
+
 ## 사전 준비
 - __개인 준비:__ &nbsp;&nbsp; 무선랜과 웹브라우저가 설치된 Laptop (Tablet도 가능은 한데 추천하지는 않습니다), __Google 계정__
 - __사용 언어:__ &nbsp;&nbsp; python3 &nbsp; (Google Colab을 사용할 예정이라 뭔가 따로 설치할 필요는 없습니다.)
